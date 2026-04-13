@@ -1,0 +1,20 @@
+{
+  "buildCommand": "cd app && npm run build",
+  "outputDirectory": "app/dist",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/app/$1" }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/app/index.html" },
+    { "src": "/blog", "dest": "/app/blog.html" },
+    { "src": "/features", "dest": "/app/features.html" },
+    { "src": "/pricing", "dest": "/app/pricing.html" },
+    { "src": "/contact", "dest": "/app/contact.html" },
+    { "src": "/about", "dest": "/app/about.html" },
+    { "src": "/privacy", "dest": "/app/privacy.html" },
+    { "src": "/terms", "dest": "/app/terms.html" },
+    { "src": "/portal", "dest": "/app/portal.html" },
+    { "src": "/blog/:slug", "dest": "/app/blog.html" },
+    { "src": "/(.*)", "dest": "/app/$1" }
+  ]
+}
