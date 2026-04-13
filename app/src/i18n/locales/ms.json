@@ -1,0 +1,607 @@
+{
+  "nav": {
+    "home": "Laman Utama",
+    "features": "Ciri",
+    "pricing": "Harga",
+    "blog": "Blog",
+    "contact": "Hubungi",
+    "clientPortal": "Portal Pelanggan"
+  },
+  "hero": {
+    "eyebrow": "Platform HR AI-Natif Pertama di Dunia",
+    "title": "Revolusikan Pengurusan HR dengan AI",
+    "description": "PeoplePulseAI adalah syarikat sistem HR AI-natif pertama di dunia. Kami bukan sahaja menyediakan teknologi HR termaju, tetapi juga perkhidmatan insurans global tempatan yang komprehensif untuk melindungi tenaga kerja anda di mana sahaja.",
+    "ctaPrimary": "Mulakan",
+    "ctaSecondary": "Ketahui Lebih Lanjut"
+  },
+  "clients": {
+    "title": "Dipercayai oleh 10,000+ Syarikat"
+  },
+  "features": {
+    "eyebrow": "Ciri",
+    "title": "Ciri Berkuasa untuk Pasukan HR Moden",
+    "description": "Suite alat berkuasa AI kami mengubah cara anda mengurus sumber manusia, dari onboarding ke pengurusan prestasi dan banyak lagi.",
+    "items": {
+      "onboarding": {
+        "title": "Onboarding Pintar",
+        "description": "Permudahkan onboarding pekerja dengan aliran kerja AI, dokumentasi automatik, dan laluan latihan peribadi."
+      },
+      "analytics": {
+        "title": "Analitik Berkuasa AI",
+        "description": "Dapatkan pandangan mendalam ke dalam trend tenaga kerja dan buat keputusan berasaskan data dengan platform analitik maju kami."
+      },
+      "performance": {
+        "title": "Pengurusan Prestasi",
+        "description": "Jejak dan optimakan prestasi pekerja dengan ulasan automatik, penjejakan matlamat, dan perancangan pembangunan."
+      },
+      "compliance": {
+        "title": "Pengurusan Pematuhan",
+        "description": "Kekal patuh dengan kemas kini dasar automatik, pengurusan dokumen, dan sistem penjejakan peraturan."
+      }
+    }
+  },
+  "modules": {
+    "eyebrow": "Modul Teras",
+    "title": "Modul Teras, Liputan HR Lengkap",
+    "description": "Platform all-in-one kami meliputi setiap aspek pengurusan HR dengan integrasi lancar.",
+    "items": {
+      "portal": {
+        "title": "Portal Layanan Kendiri",
+        "features": [
+          "Layanan kendiri pekerja",
+          "Papan pemuka pengurus",
+          "Akses mudah alih",
+          "Q&A pintar"
+        ]
+      },
+      "hr": {
+        "title": "Pengurusan HR Teras",
+        "features": [
+          "Struktur organisasi",
+          "Kitaran hayat pekerja",
+          "Pengurusan jawatan",
+          "Carian pintar"
+        ]
+      },
+      "payroll": {
+        "title": "Pengurusan Gaji",
+        "features": [
+          "Pengiraan gaji",
+          "Integrasi cukai",
+          "Insurans sosial",
+          "Penjejakan kos"
+        ]
+      },
+      "attendance": {
+        "title": "Pengurusan Kehadiran",
+        "features": [
+          "Peraturan fleksibel",
+          "Penjadualan pintar",
+          "Sokongan global",
+          "Pengiraan masa nyata"
+        ]
+      },
+      "training": {
+        "title": "Pengurusan Latihan",
+        "features": [
+          "Pengurusan kursus",
+          "E-pembelajaran",
+          "Pengurusan sijil",
+          "Analisis latihan"
+        ]
+      },
+      "benefits": {
+        "title": "Faedah & Insurans Global",
+        "features": [
+          "Permohonan faedah kendiri",
+          "Paparan polisi dalam talian",
+          "Pemprosesan tuntutan",
+          "Liputan global tempatan"
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Testimoni",
+    "title": "Dipercayai oleh Pemimpin Industri",
+    "description": "Lihat apa yang pelanggan kami katakan tentang pengalaman mereka dengan PeoplePulse.",
+    "items": [
+      {
+        "quote": "PeoplePulse telah merevolusikan operasi HR kami. Pandangan berkuasa AI telah membantu kami membuat keputusan yang lebih baik untuk tenaga kerja kami.",
+        "name": "Sarah Stevens",
+        "company": "Tech Innovators Inc."
+      },
+      {
+        "quote": "Automasi onboarding telah menjimatkan kami berjam-jam dan meningkatkan pengalaman pekerja baharu dengan ketara.",
+        "name": "Mike Chen",
+        "company": "Global Enterprises"
+      },
+      {
+        "quote": "Papan pemuka analitik memberi kami penglihatan masa nyata ke dalam metrik tenaga kerja kami. Ia telah mengubah strategi HR kami.",
+        "name": "Jessica Brown",
+        "company": "Future Works Ltd"
+      }
+    ]
+  },
+  "ai": {
+    "eyebrow": "Dikuasakan AI",
+    "title": "Bagaimana AI Mengubah Pengurusan HR",
+    "description": "Alami kuasa AI dalam setiap aspek operasi HR anda.",
+    "items": {
+      "predictive": {
+        "title": "Analitik Ramalan",
+        "description": "AI kami menganalisis corak dalam data tenaga kerja anda untuk meramalkan trend masa depan, membantu anda menangani isu berpotensi secara proaktif sebelum mereka timbul."
+      },
+      "recruiting": {
+        "title": "Pengambilan Pintar",
+        "description": "Permudahkan proses pengambilan anda dengan pemadanan calon berkuasa AI, penyaringan automatik, dan pengesanan bias untuk membina pasukan yang pelbagai."
+      },
+      "experience": {
+        "title": "Pengalaman Peribadi",
+        "description": "Berikan pengalaman yang disesuaikan untuk setiap pekerja berdasarkan peranan, kemahiran, dan aspirasi kerjaya mereka untuk meningkatkan penglibatan."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Harga",
+    "title": "Harga Mudah dan Telus",
+    "description": "Pilih pelan yang sesuai dengan keperluan organisasi anda dan skala semasa anda berkembang.",
+    "plans": {
+      "starter": {
+        "name": "Permulaan",
+        "price": "RM40",
+        "period": "seorang pekerja / bulan",
+        "description": "Sempurna untuk perniagaan kecil yang baru bermula dengan pengurusan HR",
+        "features": [
+          "Pengurusan rekod pekerja",
+          "Penjejakan masa asas",
+          "Pengurusan dokumen",
+          "Portal pekerja",
+          "Sokongan e-mel"
+        ],
+        "cta": "Mulakan Percubaan Percuma"
+      },
+      "professional": {
+        "name": "Profesional",
+        "badge": "Paling Popular",
+        "price": "RM85",
+        "period": "seorang pekerja / bulan",
+        "description": "Ciri maju untuk perniagaan yang berkembang dengan keperluan HR yang lebih kompleks",
+        "features": [
+          "Semua dalam Permulaan",
+          "Analitik berkuasa AI",
+          "Pengurusan prestasi",
+          "Modul latihan",
+          "Automasi onboarding",
+          "Sokongan keutamaan"
+        ],
+        "cta": "Mulakan Percubaan Percuma"
+      },
+      "enterprise": {
+        "name": "Perusahaan",
+        "price": "Custom",
+        "period": "harga suai",
+        "description": "Penyelesaian pengurusan HR lengkap untuk organisasi besar",
+        "features": [
+          "Semua dalam Profesional",
+          "Pandangan AI maju",
+          "Aliran kerja tersuai",
+          "Akses API",
+          "Pengurus akaun khusus",
+          "Sokongan premium 24/7",
+          "Integrasi tersuai"
+        ],
+        "cta": "Hubungi Jualan"
+      }
+    }
+  },
+  "stats": {
+    "eyebrow": "Jangkauan Global",
+    "title": "Dipercaya di Seluruh Dunia",
+    "description": "PeoplePulseAI berkhidmat kepada perniagaan di seluruh dunia dengan penyelesaian HR berkuasa AI dan perkhidmatan insurans tempatan.",
+    "items": {
+      "users": {
+        "label": "Kepuasan Pelanggan",
+        "value": "98%",
+        "growth": "+12%"
+      },
+      "projects": {
+        "label": "Negara Diliputi",
+        "value": "50+",
+        "growth": "+24%"
+      },
+      "awards": {
+        "label": "Rakan Insurans",
+        "value": "200+",
+        "growth": "+8%"
+      },
+      "employees": {
+        "label": "Pekerja Dilindungi",
+        "value": "1M+",
+        "growth": "+32%"
+      }
+    }
+  },
+  "cta": {
+    "title": "Sedia untuk Mengubah Operasi HR Anda?",
+    "description": "Sertai ribuan syarikat yang menggunakan PeoplePulse untuk mempermudah proses HR dan meningkatkan pengalaman pekerja.",
+    "ctaPrimary": "Minta Demo",
+    "ctaSecondary": "Mulakan Percubaan Percuma"
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Pandangan & Sumber Terkini",
+    "description": "Kekal dimaklumkan dengan pemikiran terkini kami tentang teknologi HR dan inovasi tempat kerja.",
+    "readMore": "Baca lagi",
+    "viewAll": "Lihat semua siaran",
+    "categories": {
+      "engagement": "Penglibatan Pekerja",
+      "performance": "Pengurusan Prestasi",
+      "ai": "Teknologi AI",
+      "onboarding": "Onboarding"
+    },
+    "posts": {
+      "engagement": {
+        "title": "Memaksimumkan Penglibatan Pekerja dengan Tinjauan Berkuasa AI"
+      },
+      "performance": {
+        "title": "Pengurusan Prestasi Berasaskan Data"
+      },
+      "ai": {
+        "title": "Bagaimana Perisian HR Berkuasa AI Meningkatkan Sambungan Pekerja"
+      },
+      "onboarding": {
+        "title": "Amalan Terbaik untuk Onboarding Pekerja"
+      }
+    }
+  },
+  "footer": {
+    "description": "Sistem HR AI-natif pertama di dunia dengan perkhidmatan insurans global tempatan.",
+    "columns": {
+      "product": {
+        "title": "Produk",
+        "links": [
+          "Ciri",
+          "Harga",
+          "Testimoni",
+          "API",
+          "Integrasi"
+        ]
+      },
+      "resources": {
+        "title": "Sumber",
+        "links": [
+          "Blog",
+          "Dokumentasi",
+          "Pusat Bantuan",
+          "Webinar",
+          "Kajian Kes"
+        ]
+      },
+      "company": {
+        "title": "Syarikat",
+        "links": [
+          "Tentang Kami",
+          "Kerjaya",
+          "Hubungi",
+          "Dasar Privasi",
+          "Terma Perkhidmatan"
+        ]
+      }
+    },
+    "copyright": "© 2026 PeoplePulse. All rights reserved.",
+    "links": {
+      "documentation": "Dokumentasi",
+      "helpCenter": "Pusat Bantuan",
+      "webinars": "Webinar",
+      "caseStudies": "Kajian Kes",
+      "aboutUs": "Tentang Kami",
+      "careers": "Kerjaya",
+      "privacyPolicy": "Dasar Privasi",
+      "termsOfService": "Terma Perkhidmatan"
+    }
+  },
+  "language": {
+    "title": "Pilih Bahasa"
+  },
+  "contact": {
+    "eyebrow": "Hubungi Kami",
+    "title": "Hubungi Kami",
+    "description": "Ada soalan tentang penyelesaian HR kami? Kami sedia membantu. Hubungi pasukan kami dan kami akan membalas secepat mungkin.",
+    "form": {
+      "name": "Nama Penuh",
+      "email": "Alamat E-mel",
+      "company": "Nama Syarikat",
+      "phone": "Nombor Telefon",
+      "subject": "Subjek",
+      "message": "Mesej",
+      "submit": "Hantar Mesej",
+      "success": "Terima kasih! Mesej anda telah berjaya dihantar."
+    },
+    "info": {
+      "email": "E-mel",
+      "phone": "Telefon",
+      "address": "Alamat",
+      "hours": "Waktu Perniagaan"
+    }
+  },
+  "blogPost": {
+    "backToBlog": "Kembali ke Blog",
+    "share": "Kongsi",
+    "relatedPosts": "Artikel Berkaitan",
+    "readMore": "Baca Lagi"
+  },
+  "clientPortal": {
+    "welcomeTitle": "Selamat Datang ke Papan Pemuka HR Anda",
+    "welcomeDesc": "Akses data pekerja anda, urus aliran kerja, dan dapatkan pandangan berkuasa—semua di satu tempat.",
+    "features": [
+      "Urus rekod pekerja",
+      "Jejaki masa dan kehadiran",
+      "Jalankan gaji dan faedah",
+      "Hasilkan laporan dan analitik",
+      "Automat aliran kerja HR"
+    ],
+    "signInTitle": "Log masuk ke akaun anda",
+    "signUpTitle": "Cipta akaun anda",
+    "noAccount": "Tiada akaun?",
+    "hasAccount": "Sudah mempunyai akaun?",
+    "signUp": "Daftar",
+    "signIn": "Log masuk",
+    "email": "Alamat E-mel",
+    "password": "Kata Laluan",
+    "rememberMe": "Ingat saya",
+    "forgotPassword": "Lupa kata laluan?",
+    "agreeTerms": "Saya bersetuju dengan",
+    "termsOfService": "Terma Perkhidmatan",
+    "privacyPolicy": "Dasar Privasi",
+    "and": "dan",
+    "createAccount": "Cipta Akaun",
+    "needHelp": "Perlukan bantuan?",
+    "contactSupport": "Hubungi pasukan sokongan kami",
+    "comingSoon": "Akan Datang!",
+    "comingSoonDesc": "Portal pelanggan sedang dalam pembangunan. Sila hubungi kami untuk akses awal.",
+    "contactUs": "Hubungi Kami"
+  },
+  "pricingPage": {
+    "eyebrow": "Pricing",
+    "title": "Simple, Transparent Pricing",
+    "description": "Choose the plan that fits your organization's needs. No hidden fees, cancel anytime.",
+    "mostPopular": "Most Popular",
+    "comparePlans": "Compare Plans",
+    "compareDesc": "See which plan is right for your organization",
+    "feature": "Feature",
+    "faq": "Frequently Asked Questions",
+    "faqDesc": "Everything you need to know about our pricing",
+    "stillQuestions": "Still Have Questions?",
+    "stillQuestionsDesc": "Our team is here to help you find the perfect plan for your organization.",
+    "contactSales": "Contact Sales",
+    "emailUs": "Email Us",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "period": "per employee / month",
+        "description": "Perfect for small businesses just getting started with HR management"
+      },
+      "professional": {
+        "name": "Professional",
+        "period": "per employee / month",
+        "description": "Advanced features for growing businesses with more complex HR needs"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "period": "tailored pricing",
+        "description": "Complete HR management solution for large organizations"
+      }
+    },
+    "features": {
+      "employeeManagement": "Employee Management",
+      "timeTracking": "Time Tracking",
+      "documentStorage": "Document Storage",
+      "aiAnalytics": "AI Analytics",
+      "performanceReviews": "Performance Reviews",
+      "trainingManagement": "Training Management",
+      "apiAccess": "API Access",
+      "customWorkflows": "Custom Workflows",
+      "dedicatedSupport": "Dedicated Support",
+      "slaGuarantee": "SLA Guarantee"
+    },
+    "faqs": [
+      {
+        "question": "How does the pricing work?",
+        "answer": "Our pricing is per employee per month. You only pay for active employees in your system. There are no hidden fees or long-term contracts."
+      },
+      {
+        "question": "Can I switch plans?",
+        "answer": "Yes, you can upgrade or downgrade your plan at any time. Changes take effect at the start of your next billing cycle."
+      },
+      {
+        "question": "Is there a free trial?",
+        "answer": "Yes, we offer a 14-day free trial for Starter and Professional plans. No credit card required."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards, bank transfers, and PayPal. Enterprise customers can also pay via invoice."
+      },
+      {
+        "question": "Do you offer discounts for nonprofits?",
+        "answer": "Yes, we offer special pricing for nonprofits and educational institutions. Contact our sales team for details."
+      },
+      {
+        "question": "What happens to my data if I cancel?",
+        "answer": "You can export all your data at any time. We retain your data for 30 days after cancellation, then securely delete it."
+      }
+    ]
+  },
+  "blogPage": {
+    "eyebrow": "Blog",
+    "title": "Latest Insights & Resources",
+    "description": "Stay informed with our latest thoughts on HR technology and workplace innovation.",
+    "featured": "Featured",
+    "readArticle": "Read Article",
+    "newsletterTitle": "Subscribe to Our Newsletter",
+    "newsletterDesc": "Get the latest HR insights, tips, and best practices delivered straight to your inbox.",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "categories": {
+      "all": "All",
+      "employeeEngagement": "Employee Engagement",
+      "performanceManagement": "Performance Management",
+      "aiTechnology": "AI Technology",
+      "onboarding": "Onboarding",
+      "remoteWork": "Remote Work",
+      "compliance": "Compliance"
+    }
+  },
+  "featuresPage": {
+    "eyebrow": "Features",
+    "title": "Powerful Features for Modern HR Teams",
+    "description": "Our comprehensive suite of AI-powered tools transforms how you manage your human resources, from onboarding to performance management and beyond.",
+    "cta": "Get Started Today",
+    "features": {
+      "smartOnboarding": {
+        "title": "Smart Onboarding",
+        "description": "Streamline employee onboarding with AI-powered workflows, automated documentation, and personalized training paths.",
+        "benefits": [
+          "Reduce onboarding time by 60%",
+          "Automated document collection",
+          "Personalized welcome experiences"
+        ]
+      },
+      "aiAnalytics": {
+        "title": "AI-Powered Analytics",
+        "description": "Gain deep insights into workforce trends and make data-driven decisions with our advanced analytics platform.",
+        "benefits": [
+          "Real-time dashboards",
+          "Predictive insights",
+          "Custom reports"
+        ]
+      },
+      "performance": {
+        "title": "Performance Management",
+        "description": "Track and optimize employee performance with automated reviews, goal tracking, and development planning.",
+        "benefits": [
+          "360° feedback",
+          "Goal alignment",
+          "Career pathing"
+        ]
+      },
+      "compliance": {
+        "title": "Compliance Management",
+        "description": "Stay compliant with automated policy updates, document management, and regulatory tracking systems.",
+        "benefits": [
+          "Automated compliance checks",
+          "Audit trails",
+          "Policy management"
+        ]
+      },
+      "predictive": {
+        "title": "Predictive Analytics",
+        "description": "Our AI analyzes patterns in your workforce data to predict future trends and help you proactively address issues.",
+        "benefits": [
+          "Turnover prediction",
+          "Talent gap analysis",
+          "Succession planning"
+        ]
+      },
+      "recruiting": {
+        "title": "Intelligent Recruiting",
+        "description": "Streamline your hiring process with AI-powered candidate matching, automated screening, and bias detection.",
+        "benefits": [
+          "Smart candidate matching",
+          "Resume parsing",
+          "Interview scheduling"
+        ]
+      },
+      "automation": {
+        "title": "Workflow Automation",
+        "description": "Automate repetitive HR tasks and free up your team to focus on strategic initiatives.",
+        "benefits": [
+          "No-code workflows",
+          "Approval chains",
+          "Notifications"
+        ]
+      },
+      "global": {
+        "title": "Global HR Management",
+        "description": "Manage your global workforce with multi-country payroll, compliance, and localized experiences.",
+        "benefits": [
+          "Multi-currency support",
+          "Local compliance",
+          "Time zone management"
+        ]
+      },
+      "security": {
+        "title": "Enterprise Security",
+        "description": "Bank-grade security with SSO, role-based access control, and data encryption.",
+        "benefits": [
+          "SOC 2 compliant",
+          "GDPR ready",
+          "SSO integration"
+        ]
+      },
+      "attendance": {
+        "title": "Time & Attendance",
+        "description": "Track employee time, manage leave requests, and ensure accurate payroll calculations.",
+        "benefits": [
+          "Biometric integration",
+          "Leave management",
+          "Overtime tracking"
+        ]
+      },
+      "documents": {
+        "title": "Document Management",
+        "description": "Centralize all HR documents with version control, e-signatures, and secure storage.",
+        "benefits": [
+          "E-signatures",
+          "Version control",
+          "Document templates"
+        ]
+      },
+      "selfService": {
+        "title": "Employee Self-Service",
+        "description": "Empower employees with self-service access to their information, requests, and company resources.",
+        "benefits": [
+          "Mobile app",
+          "HR chatbot",
+          "Knowledge base"
+        ]
+      },
+      "oneClickPayroll": {
+        "title": "One-Click Payroll",
+        "description": "Calculate salaries, taxes, and benefits with a single click. Save hours of manual work every month.",
+        "benefits": [
+          "One-click salary calculation",
+          "Automatic tax computation",
+          "Benefits integration"
+        ]
+      },
+      "oneClickStoreScheduling": {
+        "title": "One-Click Store Scheduling",
+        "description": "Automatically generate optimal schedules for retail stores based on foot traffic and staff availability.",
+        "benefits": [
+          "Foot traffic analysis",
+          "Optimal staff allocation",
+          "Peak hour coverage"
+        ]
+      },
+      "oneClickFactoryScheduling": {
+        "title": "One-Click Factory Scheduling",
+        "description": "Create efficient shift schedules for manufacturing facilities considering production targets and labor regulations.",
+        "benefits": [
+          "Production target alignment",
+          "Labor law compliance",
+          "Shift optimization"
+        ]
+      },
+      "smartScheduling": {
+        "title": "Smart Scheduling",
+        "description": "AI-powered scheduling that adapts to your business needs and employee preferences.",
+        "benefits": [
+          "AI-driven optimization",
+          "Employee preference matching",
+          "Conflict resolution"
+        ]
+      }
+    }
+  }
+}

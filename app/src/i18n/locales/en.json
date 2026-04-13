@@ -1,0 +1,754 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "contact": "Contact",
+    "clientPortal": "Client Portal"
+  },
+  "hero": {
+    "eyebrow": "World's First AI-Native HR Platform",
+    "title": "Revolutionize HR Management with AI",
+    "description": "PeoplePulseAI is the world's first AI-native HR system company. We provide not just cutting-edge HR technology, but also comprehensive global local insurance services to protect your workforce everywhere.",
+    "ctaPrimary": "Get Started",
+    "ctaSecondary": "Learn More"
+  },
+  "clients": {
+    "title": "Trusted by 10,000+ Companies"
+  },
+  "features": {
+    "eyebrow": "Core Features",
+    "title": "World's Most Powerful HR Platform",
+    "description": "Experience the next generation of HR management with our AI-native platform built for global enterprises.",
+    "items": {
+      "salaryEngine": {
+        "title": "Most Powerful Salary Engine",
+        "description": "One-click complex salary calculations with multi-country support and built-in tax optimization."
+      },
+      "insuranceIntegration": {
+        "title": "Benefits & Insurance Integration",
+        "description": "Seamless integration with global insurance providers. Automatic deductions and contributions."
+      },
+      "lowCodePlatform": {
+        "title": "Powerful Low-Code Platform",
+        "description": "Build custom workflows and forms without code. Visual builder for any HR process."
+      },
+      "aiNative": {
+        "title": "100% AI Native",
+        "description": "Built from the ground up with AI. Predictive analytics and intelligent automation everywhere."
+      }
+    }
+  },
+  "modules": {
+    "eyebrow": "Core Modules",
+    "title": "Core Modules, Complete HR Coverage",
+    "description": "Our all-in-one platform covers every aspect of HR management with seamless integration.",
+    "items": {
+      "portal": {
+        "title": "Self-Service Portal",
+        "features": [
+          "Employee self-service",
+          "Manager dashboard",
+          "Mobile access",
+          "Smart Q&A"
+        ]
+      },
+      "hr": {
+        "title": "Core HR Management",
+        "features": [
+          "Organization structure",
+          "Employee lifecycle",
+          "Position management",
+          "Smart search"
+        ]
+      },
+      "payroll": {
+        "title": "Payroll Management",
+        "features": [
+          "Salary calculation",
+          "Tax integration",
+          "Social insurance",
+          "Cost tracking"
+        ]
+      },
+      "attendance": {
+        "title": "Attendance Management",
+        "features": [
+          "Flexible rules",
+          "Smart scheduling",
+          "Global support",
+          "Real-time calc"
+        ]
+      },
+      "training": {
+        "title": "Training Management",
+        "features": [
+          "Course management",
+          "E-learning",
+          "Certification",
+          "Training analysis"
+        ]
+      },
+      "benefits": {
+        "title": "Global Benefits & Insurance",
+        "features": [
+          "Self-service benefits application",
+          "Online policy viewing",
+          "Claims processing",
+          "Global local coverage"
+        ]
+      },
+      "performance": {
+        "title": "Performance Management",
+        "features": [
+          "KPI tracking",
+          "360° reviews",
+          "Goal alignment",
+          "Development plans"
+        ]
+      },
+      "talent": {
+        "title": "Talent Management",
+        "features": [
+          "Talent pool",
+          "Succession planning",
+          "Career paths",
+          "Skill mapping"
+        ]
+      },
+      "recruiting": {
+        "title": "Intelligent Recruiting",
+        "features": [
+          "AI matching",
+          "Resume parsing",
+          "Interview scheduling",
+          "Offer management"
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "Trusted by Industry Leaders",
+    "description": "See what our customers have to say about their experience with PeoplePulse.",
+    "items": [
+      {
+        "quote": "PeoplePulse has revolutionized our HR operations. The AI-powered insights have helped us make better decisions for our workforce.",
+        "name": "Sarah Stevens",
+        "company": "Tech Innovators Inc."
+      },
+      {
+        "quote": "The onboarding automation has saved us countless hours and improved our new hire experience significantly.",
+        "name": "Mike Chen",
+        "company": "Global Enterprises"
+      },
+      {
+        "quote": "The analytics dashboard gives us real-time visibility into our workforce metrics. It's been a game-changer for our HR strategy.",
+        "name": "Jessica Brown",
+        "company": "Future Works Ltd"
+      }
+    ]
+  },
+  "ai": {
+    "eyebrow": "AI-Driven",
+    "title": "How AI Transforms HR Management",
+    "description": "Experience the power of AI in every aspect of your HR operations.",
+    "items": {
+      "predictive": {
+        "title": "Predictive Analytics",
+        "description": "Our AI analyzes patterns in your workforce data to predict future trends, helping you proactively address potential issues before they arise."
+      },
+      "recruiting": {
+        "title": "Intelligent Recruiting",
+        "description": "Streamline your hiring process with AI-powered candidate matching, automated screening, and bias detection to build diverse teams."
+      },
+      "experience": {
+        "title": "Personalized Experience",
+        "description": "Deliver custom-tailored experiences for each employee based on their role, skills, and career aspirations to boost engagement."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Simple, Transparent Pricing",
+    "description": "Choose the plan that fits your organization's needs and scale as you grow.",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "$9",
+        "period": "per employee / month",
+        "description": "Perfect for small businesses just getting started with HR management",
+        "features": [
+          "Employee records management",
+          "Basic time tracking",
+          "Document management",
+          "Employee portal",
+          "Email support"
+        ],
+        "cta": "Start Free Trial"
+      },
+      "professional": {
+        "name": "Professional",
+        "badge": "Most Popular",
+        "price": "$19",
+        "period": "per employee / month",
+        "description": "Advanced features for growing businesses with more complex HR needs",
+        "features": [
+          "Everything in Starter",
+          "AI-powered analytics",
+          "Performance management",
+          "Training modules",
+          "Onboarding automation",
+          "Priority support"
+        ],
+        "cta": "Start Free Trial"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Custom",
+        "period": "tailored pricing",
+        "description": "Complete HR management solution for large organizations",
+        "features": [
+          "Everything in Professional",
+          "Advanced AI insights",
+          "Custom workflows",
+          "API access",
+          "Dedicated account manager",
+          "24/7 premium support",
+          "Custom integrations"
+        ],
+        "cta": "Contact Sales"
+      }
+    }
+  },
+  "stats": {
+    "eyebrow": "Global Reach",
+    "title": "Trusted Worldwide",
+    "description": "PeoplePulseAI serves businesses across the globe with AI-powered HR solutions and local insurance services.",
+    "items": {
+      "users": {
+        "label": "Client Satisfaction",
+        "value": "98%",
+        "growth": "+12%"
+      },
+      "projects": {
+        "label": "Countries Covered",
+        "value": "50+",
+        "growth": "+24%"
+      },
+      "awards": {
+        "label": "Insurance Partners",
+        "value": "200+",
+        "growth": "+8%"
+      },
+      "employees": {
+        "label": "Employees Protected",
+        "value": "1M+",
+        "growth": "+32%"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your HR Operations?",
+    "description": "Join thousands of companies using PeoplePulse to streamline their HR processes and improve employee experience.",
+    "ctaPrimary": "Request Demo",
+    "ctaSecondary": "Start Free Trial"
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Latest Insights & Resources",
+    "description": "Stay informed with our latest thoughts on HR technology and workplace innovation.",
+    "readMore": "Read more",
+    "viewAll": "View all posts",
+    "categories": {
+      "engagement": "Employee Engagement",
+      "performance": "Performance Management",
+      "ai": "AI Technology",
+      "onboarding": "Onboarding",
+      "retention": "Employee Retention",
+      "diversity": "Diversity & Inclusion",
+      "metrics": "HR Metrics",
+      "remote": "Remote Work"
+    },
+    "posts": {
+      "maximizingemployeeengagement": {
+        "title": "Maximizing Employee Engagement with AI-Powered Surveys",
+        "excerpt": "Discover how AI-driven employee surveys can help you understand and improve employee satisfaction, leading to higher retention and productivity."
+      },
+      "datadrivenperformancemanagement": {
+        "title": "Data-Driven Performance Management: A Complete Guide",
+        "excerpt": "Learn how to leverage data analytics to create more effective performance management processes."
+      },
+      "aihrsoftwareemployeeconnection": {
+        "title": "How AI-Powered HR Software Enhances Employee Connection",
+        "excerpt": "Explore how artificial intelligence is transforming the way organizations connect with their employees."
+      },
+      "employeeonboardingbestpractices": {
+        "title": "Best Practices for Employee Onboarding",
+        "excerpt": "Create memorable first impressions with these proven onboarding strategies."
+      },
+      "employeeretentionstrategies": {
+        "title": "10 Proven Strategies to Reduce Employee Turnover",
+        "excerpt": "Learn how successful companies use data-driven strategies to retain talent and build lasting employee loyalty."
+      },
+      "workplacediversityinclusionguide": {
+        "title": "Building an Inclusive Workplace: A Complete Guide",
+        "excerpt": "Create a workplace where every employee feels valued and can perform at their best with effective diversity and inclusion programs."
+      },
+      "hrmetricsdashboardguide": {
+        "title": "Essential HR Metrics Every HR Professional Should Track",
+        "excerpt": "Go beyond basic headcounts and understand which HR analytics truly impact business outcomes."
+      },
+      "remoteteammanagementbestpractices": {
+        "title": "Managing Remote Teams: Best Practices for HR Leaders",
+        "excerpt": "Address the challenges of distributed workforce management with proven strategies to boost productivity and engagement."
+      },
+      "employeewellnessprogramsguide": {
+        "title": "Building an Effective Employee Wellness Program",
+        "excerpt": "Create comprehensive wellness initiatives that improve employee health, reduce costs, and boost productivity."
+      },
+      "talentmanagementstrategies": {
+        "title": "Strategic Talent Management: Attract, Develop, Retain",
+        "excerpt": "Build comprehensive talent strategies that align with business goals and create competitive advantage through people."
+      },
+      "changemanagementhrguide": {
+        "title": "HR Change Management: Leading Organizational Transformation",
+        "excerpt": "Master the art of managing organizational change while maintaining employee engagement and productivity throughout."
+      },
+      "hrtechnologyfuturetrends": {
+        "title": "The Future of HR Technology: Trends to Watch",
+        "excerpt": "Explore emerging technologies that will reshape HR over the next decade, from AI to blockchain."
+      },
+      "performancereviewalternatives": {
+        "title": "Beyond Annual Reviews: Modern Performance Management Approaches",
+        "excerpt": "Discover alternative performance management methods that drive continuous improvement and employee growth."
+      },
+      "hrcompliance2025": {
+        "title": "HR Compliance Checklist for 2025",
+        "excerpt": "Ensure your organization is prepared for key HR compliance requirements in 2025 and beyond."
+      }
+    }
+  },
+  "footer": {
+    "description": "World's first AI-native HR system with global local insurance services.",
+    "columns": {
+      "product": {
+        "title": "Product",
+        "links": [
+          "Features",
+          "Pricing",
+          "Testimonials",
+          "API",
+          "Integrations"
+        ]
+      },
+      "resources": {
+        "title": "Resources",
+        "links": [
+          "Blog",
+          "Documentation",
+          "Help Center",
+          "Webinars",
+          "Case Studies"
+        ]
+      },
+      "company": {
+        "title": "Company",
+        "links": [
+          "About Us",
+          "Careers",
+          "Contact",
+          "Privacy Policy",
+          "Terms of Service"
+        ]
+      }
+    },
+    "copyright": "© 2026 PeoplePulse. All rights reserved.",
+    "links": {
+      "documentation": "Documentation",
+      "helpCenter": "Help Center",
+      "webinars": "Webinars",
+      "caseStudies": "Case Studies",
+      "aboutUs": "About Us",
+      "careers": "Careers",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service"
+    }
+  },
+  "language": {
+    "title": "Select Language"
+  },
+  "contact": {
+    "eyebrow": "Contact Us",
+    "title": "Get in Touch",
+    "description": "Have questions about our HR solutions? We're here to help. Reach out to our team and we'll get back to you as soon as possible.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company Name",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thank you! Your message has been sent successfully."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "hours": "Business Hours"
+    }
+  },
+  "blogPost": {
+    "backToBlog": "Back to Blog",
+    "share": "Share",
+    "relatedPosts": "Related Articles",
+    "readMore": "Read More",
+    "posts": {
+      "maximizing-employee-engagement": {
+        "title": "Maximizing Employee Engagement with AI-Powered Surveys",
+        "excerpt": "Discover how AI-driven employee surveys can help you understand and improve workforce satisfaction, leading to higher retention and productivity.",
+        "content": "\n                  <p>In today's competitive business landscape, employee engagement has become more critical than ever. Organizations that prioritize employee satisfaction consistently outperform their competitors in productivity, innovation, and retention rates.</p>\n\n                  <h2>The Challenge of Traditional Surveys</h2>\n                  <p>Traditional employee surveys have several limitations. They're often too long, conducted too infrequently, and fail to capture the nuances of employee sentiment.</p>\n\n                  <h2>Enter AI-Powered Surveys</h2>\n                  <p>Artificial intelligence is revolutionizing how we collect and analyze employee feedback. AI-powered surveys offer several key advantages:</p>\n\n                  <ul>\n                    <li><strong>Real-time Analysis:</strong> Get instant insights as responses come in.</li>\n                    <li><strong>Sentiment Analysis:</strong> AI can detect emotional undertones in responses.</li>\n                    <li><strong>Smart Follow-ups:</strong> Automatic follow-up questions based on responses.</li>\n                    <li><strong>Trend Detection:</strong> Identify patterns over time.</li>\n                  </ul>\n\n                  <h2>Best Practices</h2>\n                  <p>Keep surveys short, ensure anonymity, act on insights, and conduct them regularly.</p>\n                "
+      },
+      "data-driven-performance-management": {
+        "title": "Data-Driven Performance Management: A Complete Guide",
+        "excerpt": "Learn how to leverage data analytics to create more effective performance management processes.",
+        "content": "\n                  <p>Performance management has evolved significantly over the past decade. Gone are the days of annual reviews and gut-feel assessments.</p>\n\n                  <h2>The Data Revolution</h2>\n                  <p>Modern performance management relies on continuous data collection and analysis. This approach provides:</p>\n\n                  <ul>\n                    <li>Objective performance metrics</li>\n                    <li>Real-time feedback opportunities</li>\n                    <li>Predictive insights for development</li>\n                    <li>Fair and transparent evaluations</li>\n                  </ul>\n\n                  <h2>Implementation Strategies</h2>\n                  <p>Start with clear goals, choose the right metrics, and ensure manager training on data interpretation.</p>\n                "
+      },
+      "ai-hr-software-employee-connection": {
+        "title": "How AI-Powered HR Software Enhances Employee Connection",
+        "excerpt": "Explore how artificial intelligence is transforming the way organizations connect with their employees.",
+        "content": "\n                  <p>The modern workplace is increasingly digital, but that doesn't mean human connection has to suffer. AI is actually helping bridge the gap.</p>\n\n                  <h2>Personalization at Scale</h2>\n                  <p>AI enables personalized experiences for every employee, from onboarding to career development.</p>\n\n                  <h2>Key Benefits</h2>\n                  <ul>\n                    <li>24/7 support through AI assistants</li>\n                    <li>Personalized learning recommendations</li>\n                    <li>Proactive wellness interventions</li>\n                    <li>Smart scheduling for better work-life balance</li>\n                  </ul>\n                "
+      },
+      "employee-onboarding-best-practices": {
+        "title": "Best Practices for Employee Onboarding",
+        "excerpt": "Create a memorable first impression with these proven onboarding strategies.",
+        "content": "\n                  <p>First impressions matter. A well-designed onboarding process can significantly impact employee retention and engagement.</p>\n\n                  <h2>The 90-Day Framework</h2>\n                  <p>Effective onboarding spans the first 90 days and beyond:</p>\n\n                  <ul>\n                    <li><strong>Day 1:</strong> Welcome, setup, and introductions</li>\n                    <li><strong>Week 1:</strong> Role clarity and initial training</li>\n                    <li><strong>Month 1:</strong> First projects and feedback</li>\n                    <li><strong>Month 3:</strong> Performance review and goal setting</li>\n                  </ul>\n\n                  <h2>Technology Enablement</h2>\n                  <p>Use automation to streamline paperwork and free up time for meaningful human connections.</p>\n                "
+      },
+      "employee-retention-strategies": {
+        "title": "10 Proven Strategies to Reduce Employee Turnover",
+        "excerpt": "Learn the data-backed approaches successful companies use to keep their best talent and build lasting employee loyalty.",
+        "content": "\n                  <p>Employee turnover costs companies thousands of dollars per employee replaced. But with the right strategies, you can significantly reduce turnover and retain your top performers.</p>\n\n                  <h2>Understanding Turnover Costs</h2>\n                  <p>Before diving into solutions, it's important to understand what you're fighting against:</p>\n\n                  <ul>\n                    <li>Direct costs include recruitment, hiring, and training expenses</li>\n                    <li>Indirect costs involve lost productivity and institutional knowledge</li>\n                    <li>Hidden costs affect team morale and customer satisfaction</li>\n                  </ul>\n\n                  <h2>The Top 10 Retention Strategies</h2>\n\n                  <ol>\n                    <li><strong>Competitive Compensation:</strong> Regularly benchmark salaries against industry standards</li>\n                    <li><strong>Career Development:</strong> Create clear growth paths and promotion opportunities</li>\n                    <li><strong>Work-Life Balance:</strong> Offer flexible schedules and remote work options</li>\n                    <li><strong>Recognition Programs:</strong> Implement both formal and informal recognition systems</li>\n                    <li><strong>Continuous Feedback:</strong> Move beyond annual reviews to ongoing conversations</li>\n                    <li><strong>Professional Development:</strong> Invest in training and skill-building programs</li>\n                    <li><strong>Health & Wellness:</strong> Provide comprehensive benefits including mental health support</li>\n                    <li><strong>Strong Culture:</strong> Build and maintain a positive, inclusive workplace culture</li>\n                    <li><strong>Leadership Development:</strong> Train managers to be effective coaches and mentors</li>\n                    <li><strong>Exit Interviews:</strong> Learn from departures to prevent future turnover</li>\n                  </ol>\n\n                  <h2>Measuring Success</h2>\n                  <p>Track your retention metrics monthly and set targets for improvement. Compare your turnover rates industry benchmarks to understand where you stand.</p>\n                "
+      },
+      "workplace-diversity-inclusion-guide": {
+        "title": "Building an Inclusive Workplace: A Complete Guide",
+        "excerpt": "Create a workplace where every employee feels valued and can contribute their best work through effective D&I initiatives.",
+        "content": "\n                  <p>Diversity and inclusion are no longer optional—they're business imperatives. Companies with diverse teams outperform their peers by 35%. Here's how to build a truly inclusive workplace.</p>\n\n                  <h2>What Diversity and Inclusion Really Mean</h2>\n                  <p>Diversity is about representation—who is in your organization. Inclusion is about experience—how they are treated and whether they can thrive.</p>\n\n                  <h2>Building Blocks of an Inclusive Workplace</h2>\n\n                  <ul>\n                    <li><strong>Leadership Commitment:</strong> D&I must start at the top with visible, consistent support</li>\n                    <li><strong>Representative Hiring:</strong> Remove bias from recruitment and promotion processes</li>\n                    <li><strong>Equal Pay:</strong> Conduct regular pay equity audits and address gaps</li>\n                    <li><strong>Flexible Policies:</strong> Accommodate different needs and working styles</li>\n                    <li><strong>Employee Resource Groups:</strong> Support affinity groups and their initiatives</li>\n                  </ul>\n\n                  <h2>Training and Development</h2>\n                  <p>Implement regular training on unconscious bias, inclusive leadership, and respectful communication. Make sure training goes beyond compliance to drive real behavioral change.</p>\n\n                  <h2>Measuring Progress</h2>\n                  <p>Track representation at all levels, conduct regular surveys, monitor promotion rates across demographics, and hold leaders accountable for progress.</p>\n\n                  <h2>The Business Case</h2>\n                  <p>Diverse companies are 35% more likely to outperform their peers. Inclusion drives innovation, improves decision-making, and expands market reach.</p>\n                "
+      },
+      "hr-metrics-dashboard-guide": {
+        "title": "Essential HR Metrics Every HR Professional Should Track",
+        "excerpt": "Move beyond basic headcounts and learn which HR analytics truly impact business outcomes.",
+        "content": "\n                  <p>Data-driven HR is transforming how organizations make decisions about their workforce. But which metrics actually matter? Here's your guide to the essential HR analytics every HR professional should master.</p>\n\n                  <h2>Recruitment Metrics</h2>\n\n                  <ul>\n                    <li><strong>Time to Hire:</strong> How long it takes to fill positions</li>\n                    <li><strong>Cost per Hire:</strong> Total recruitment spending divided by hires</li>\n                    <li><strong>Quality of Hire:</strong> Performance of new hires over time</li>\n                    <li><strong>Offer Acceptance Rate:</strong> Percentage of offers accepted</li>\n                  </ul>\n\n                  <h2>Retention Metrics</h2>\n\n                  <ul>\n                    <li><strong>Turnover Rate:</strong> Percentage of employees who leave</li>\n                    <li><strong>Regrettable Turnover:</strong> Loss of high performers</li>\n                    <li><strong>Tenure Statistics:</strong> Average employee tenure by department</li>\n                    <li><strong>Retention by Demographics:</strong> Identify retention gaps</li>\n                  </ul>\n\n                  <h2>Engagement Metrics</h2>\n\n                  <ul>\n                    <li><strong>eNPS Score:</strong> Employee Net Promoter Score</li>\n                    <li><strong>Survey Response Rates:</strong> Participation in feedback initiatives</li>\n                    <li><strong>Engagement Scores:</strong> Overall engagement levels</li>\n                  </ul>\n\n                  <h2>Productivity Metrics</h2>\n\n                  <ul>\n                    <li><strong>Revenue per Employee:</strong> Overall productivity measure</li>\n                    <li><strong>Training ROI:</strong> Return on training investments</li>\n                    <li><strong>Performance Ratings Distribution:</strong> Spread of performance scores</li>\n                  </ul>\n\n                  <h2>Building Your Dashboard</h2>\n                  <p>Start with business outcomes and work backwards to identify the HR metrics that drive them. Update monthly and share with leadership regularly.</p>\n                "
+      },
+      "remote-team-management-best-practices": {
+        "title": "Managing Remote Teams: Best Practices for HR Leaders",
+        "excerpt": "Navigate the challenges of distributed workforce management with proven strategies that boost productivity and engagement.",
+        "content": "\n                  <p>Managing remote teams requires different skills than in-office management. Learn the best practices that successful remote leaders use to build high-performing distributed teams.</p>\n\n                  <h2>Communication is Everything</h2>\n                  <p>In remote settings, overcommunication is actually healthy communication:</p>\n\n                  <ul>\n                    <li>Use asynchronous communication for non-urgent matters</li>\n                    <li>Schedule regular video calls for team alignment</li>\n                    <li>Document decisions and share meeting notes broadly</li>\n                    <li>Create clear expectations for response times</li>\n                  </ul>\n\n                  <h2>Building Trust and Accountability</h2>\n                  <p>Trust is the foundation of effective remote management:</p>\n\n                  <ol>\n                    <li>Focus on outcomes, not hours worked</li>\n                    <li>Set clear goals and deliverables</li>\n                    <li>Provide autonomy while maintaining visibility</li>\n                    <li>Trust your team until they give you reason not to</li>\n                  </ol>\n\n                  <h2>Preventing Remote Worker Burnout</h2>\n                  <p>Remote workers often struggle to disconnect:</p>\n\n                  <ul>\n                    <li>Encourage fixed working hours</li>\n                    <li>Model healthy boundaries yourself</li>\n                    <li>Schedule virtual social events</li>\n                    <li>Check in on wellbeing regularly</li>\n                  </ul>\n\n                  <h2>Tools and Technology</h2>\n                  <p>Invest in collaboration tools that enable remote success: video conferencing, project management, instant messaging, and digital whiteboard tools.</p>\n\n                  <h2>Onboarding Remote Employees</h2>\n                  <p>Remote onboarding requires extra attention. Create structured programs that pair new hires with mentors and include regular check-ins during the first 90 days.</p>\n                "
+      },
+      "employee-wellness-programs-guide": {
+        "title": "Building an Effective Employee Wellness Program",
+        "excerpt": "Create a comprehensive wellness initiative that improves employee health, reduces costs, and boosts productivity.",
+        "content": "\n                  <p>Employee wellness programs are investments that pay returns through improved health outcomes, reduced absenteeism, and higher engagement. Here's how to build one that actually works.</p>\n\n                  <h2>The Business Case for Wellness</h2>\n                  <p>Companies with effective wellness programs see:</p>\n\n                  <ul>\n                    <li>25% lower sick day usage</li>\n                    <li>Reduced healthcare costs</li>\n                    <li>Higher employee engagement</li>\n                    <li>Improved retention rates</li>\n                  </ul>\n\n                  <h2>Core Components of Effective Programs</h2>\n\n                  <ol>\n                    <li><strong>Physical Health:</strong> Gym subsidies, health screenings, ergonomic assessments</li>\n                    <li><strong>Mental Health:</strong> EAP access, counseling services, stress management resources</li>\n                    <li><strong>Financial Wellness:</strong> Retirement planning, debt counseling, financial education</li>\n                    <li><strong>Social Wellbeing:</strong> Team activities, community involvement opportunities</li>\n                    <li><strong>Professional Development:</strong> Career coaching, skill-building, growth opportunities</li>\n                  </ol>\n\n                  <h2>Making Programs Accessible</h2>\n                  <p>Wellness programs must be inclusive and accessible to all employees regardless of role, location, or personal circumstances.</p>\n\n                  <h2>Measuring Program Success</h2>\n                  <p>Track participation rates, health outcomes, program ROI, and employee satisfaction with the program. Use this data to continuously improve your offerings.</p>\n\n                  <h2>Common Pitfalls to Avoid</h2>\n                  <p>Don't make programs purely punitive, ignore mental health, or offer one-size-fits-all solutions. Personalization is key to engagement.</p>\n                "
+      },
+      "talent-management-strategies": {
+        "title": "Strategic Talent Management: Attract, Develop, Retain",
+        "excerpt": "Build a comprehensive talent strategy that aligns with your business goals and creates competitive advantage through people.",
+        "content": "\n                  <p>Talent management is the systematic process of attracting, developing, and retaining talented employees. When done well, it creates a sustainable competitive advantage through your people.</p>\n\n                  <h2>The Talent Management Framework</h2>\n\n                  <ul>\n                    <li><strong>Attract:</strong> Employer branding, recruitment marketing, candidate experience</li>\n                    <li><strong>Select:</strong> Rigorous hiring processes, assessment tools, structured interviews</li>\n                    <li><strong>Develop:</strong> Training, mentoring, career pathing, skill building</li>\n                    <li><strong>Retain:</strong> Engagement, compensation, growth opportunities, culture</li>\n                    <li><strong>Transition:</strong> Succession planning, retirement, offboarding</li>\n                  </ul>\n\n                  <h2>Attracting Top Talent</h2>\n                  <p>Your employer brand is your reputation as a place to work. Invest in:</p>\n\n                  <ol>\n                    <li>A compelling employee value proposition</li>\n                    <li>Positive candidate experiences</li>\n                    <li>Strong social proof from current employees</li>\n                    <li>Competitive total rewards packages</li>\n                  </ol>\n\n                  <h2>Developing Your Workforce</h2>\n                  <p>Learning and development is no longer optional. Employees expect growth opportunities, and organizations that invest in development see better retention and performance.</p>\n\n                  <h2>Succession Planning</h2>\n                  <p>Every leadership position should have a succession candidate. Identify high-potential employees early and invest in their development.</p>\n\n                  <h2>Creating a Talent Culture</h2>\n                  <p>Talent management isn't just an HR function—it's an organizational priority. Leaders at all levels should be invested in attracting, developing, and retaining talent.</p>\n                "
+      },
+      "change-management-hr-guide": {
+        "title": "HR Change Management: Leading Organizational Transformation",
+        "excerpt": "Master the art of managing organizational change while maintaining employee engagement and productivity throughout.",
+        "content": "\n                  <p>Organizational change is inevitable, but failed change initiatives are costly. HR plays a critical role in leading successful transformations. Here's how to manage change effectively.</p>\n\n                  <h2>Why Change Fails</h2>\n                  <p>Most change initiatives fail due to:</p>\n\n                  <ul>\n                    <li>Lack of employee buy-in</li>\n                    <li>Inadequate communication</li>\n                    <li>Resistance from key stakeholders</li>\n                    <li>Insufficient training and support</li>\n                    <li>Change fatigue</li>\n                  </ul>\n\n                  <h2>The Change Management Process</h2>\n\n                  <ol>\n                    <li><strong>Assess:</strong> Understand the need for change and organizational readiness</li>\n                    <li><strong>Plan:</strong> Develop a comprehensive change strategy</li>\n                    <li><strong>Communicate:</strong> Share the vision and reasons for change</li>\n                    <li><strong>Engage:</strong> Involve employees in the change process</li>\n                    <li><strong>Implement:</strong> Execute the change with proper support</li>\n                    <li><strong>Sustain:</strong> Reinforce new behaviors and practices</li>\n                  </ol>\n\n                  <h2>HR's Role in Change Management</h2>\n                  <p>HR professionals are uniquely positioned to lead change initiatives because they understand both business strategy and employee concerns.</p>\n\n                  <h2>Building Change Resilience</h2>\n                  <p>Help employees adapt by providing training, creating safe spaces for questions, celebrating quick wins, and maintaining transparency throughout the process.</p>\n\n                  <h2>Measuring Change Success</h2>\n                  <p>Track adoption rates, employee sentiment, and business outcomes to determine whether your change initiative achieved its goals.</p>\n                "
+      },
+      "hr-technology-future-trends": {
+        "title": "The Future of HR Technology: Trends to Watch",
+        "excerpt": "Explore the emerging technologies that will reshape HR over the next decade, from AI to blockchain.",
+        "content": "\n                  <p>HR technology is evolving faster than ever. Staying ahead of trends is crucial for HR leaders who want to leverage technology for competitive advantage.</p>\n\n                  <h2>AI and Machine Learning</h2>\n                  <p>AI is transforming every aspect of HR:</p>\n\n                  <ul>\n                    <li><strong>Recruitment:</strong> Automated screening, candidate matching, chatbot interviews</li>\n                    <li><strong>Performance:</strong> Predictive analytics, sentiment analysis, smart feedback</li>\n                    <li><strong>Engagement:</strong> Real-time pulse surveys, personalized recommendations</li>\n                    <li><strong>Retention:</strong> Flight risk prediction, intervention recommendations</li>\n                  </ul>\n\n                  <h2>Digital Transformation Trends</h2>\n\n                  <ol>\n                    <li><strong>Employee Experience Platforms:</strong> Unified portals for all HR needs</li>\n                    <li><strong>People Analytics:</strong> Data-driven decision making at scale</li>\n                    <li><strong>Cloud-Based HRIS:</strong> Centralized, scalable HR systems</li>\n                    <li><strong>Mobile-First Design:</strong> HR access from anywhere</li>\n                  </ol>\n\n                  <h2>Emerging Technologies</h2>\n                  <p>Looking further ahead, these technologies will impact HR:</p>\n\n                  <ul>\n                    <li><strong>Blockchain:</strong> Verified credentials, smart contracts</li>\n                    <li><strong>VR/AR:</strong> Immersive training, virtual offices</li>\n                    <li><strong>IoT:</strong> Workplace safety monitoring, smart offices</li>\n                  </ul>\n\n                  <h2>Preparing for the Future</h2>\n                  <p>Build technology fluency across your HR team, stay curious about new solutions, pilot emerging technologies, and always prioritize employee experience when evaluating tools.</p>\n\n                  <h2>The Human Element</h2>\n                  <p>Technology should enhance human connection, not replace it. The best HR tech strategy combines cutting-edge tools with human expertise and judgment.</p>\n                "
+      },
+      "performance-review-alternatives": {
+        "title": "Beyond Annual Reviews: Modern Performance Management Approaches",
+        "excerpt": "Discover alternative approaches to performance management that drive continuous improvement and employee growth.",
+        "content": "\n                  <p>The traditional annual performance review is dying. Progressive organizations are adopting new approaches that focus on continuous feedback, coaching, and development.</p>\n\n                  <h2>Why Annual Reviews Fall Short</h2>\n                  <p>Annual reviews have significant limitations:</p>\n\n                  <ul>\n                    <li>Too much time passes between feedback and behavior</li>\n                    <li>They focus on judgment rather than improvement</li>\n                    <li>They're often subject to recency bias</li>\n                    <li>Employees feel evaluated rather than supported</li>\n                  </ul>\n\n                  <h2>Modern Alternatives</h2>\n\n                  <ol>\n                    <li><strong>Continuous Performance Management:</strong> Ongoing conversations, real-time feedback</li>\n                    <li><strong>OKRs:</strong> Objectives and Key Results for goal alignment</li>\n                    <li><strong>360-Degree Feedback:</strong> Input from multiple stakeholders</li>\n                    <li><strong>Coaching Culture:</strong> Managers as coaches, not judges</li>\n                    <li><strong>Peer Recognition:</strong> Social recognition systems</li>\n                  </ol>\n\n                  <h2>Implementing Continuous Feedback</h2>\n                  <p>Shift to continuous feedback by:</p>\n\n                  <ul>\n                    <li>Training managers on coaching skills</li>\n                    <li>Implementing pulse surveys and regular check-ins</li>\n                    <li>Using technology to facilitate feedback</li>\n                    <li>Making feedback a two-way street</li>\n                  </ul>\n\n                  <h2>Balancing Accountability and Development</h2>\n                  <p>Great performance management balances holding people accountable with supporting their growth. Neither extreme serves organizations well.</p>\n\n                  <h2>Getting Started</h2>\n                  <p>You don't need to overhaul your entire system overnight. Start with regular one-on-ones, add quarterly check-ins, and gradually introduce more continuous elements.</p>\n                "
+      }
+    }
+  },
+  "clientPortal": {
+    "welcomeTitle": "Welcome to Your HR Dashboard",
+    "welcomeDesc": "Access your employee data, manage workflows, and gain powerful insights—all in one place.",
+    "features": [
+      "Manage employee records",
+      "Track time and attendance",
+      "Run payroll and benefits",
+      "Generate reports and analytics",
+      "Automate HR workflows"
+    ],
+    "signInTitle": "Sign in to your account",
+    "signUpTitle": "Create your account",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signUp": "Sign up",
+    "signIn": "Sign in",
+    "email": "Email Address",
+    "password": "Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "agreeTerms": "I agree to the",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "and": "and",
+    "createAccount": "Create Account",
+    "needHelp": "Need help?",
+    "contactSupport": "Contact our support team",
+    "comingSoon": "Coming Soon!",
+    "comingSoonDesc": "The client portal is currently under development. Please contact us for early access.",
+    "contactUs": "Contact Us"
+  },
+  "pricingPage": {
+    "eyebrow": "Pricing",
+    "title": "Simple, Transparent Pricing",
+    "description": "Choose the plan that fits your organization's needs. No hidden fees, cancel anytime.",
+    "mostPopular": "Most Popular",
+    "comparePlans": "Compare Plans",
+    "compareDesc": "See which plan is right for your organization",
+    "feature": "Feature",
+    "faq": "Frequently Asked Questions",
+    "faqDesc": "Everything you need to know about our pricing",
+    "stillQuestions": "Still Have Questions?",
+    "stillQuestionsDesc": "Our team is here to help you find the perfect plan for your organization.",
+    "contactSales": "Contact Sales",
+    "emailUs": "Email Us",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "period": "per employee / month",
+        "description": "Perfect for small businesses just getting started with HR management"
+      },
+      "professional": {
+        "name": "Professional",
+        "period": "per employee / month",
+        "description": "Advanced features for growing businesses with more complex HR needs"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "period": "tailored pricing",
+        "description": "Complete HR management solution for large organizations"
+      }
+    },
+    "features": {
+      "employeeManagement": "Employee Management",
+      "timeTracking": "Time Tracking",
+      "documentStorage": "Document Storage",
+      "aiAnalytics": "AI Analytics",
+      "performanceReviews": "Performance Reviews",
+      "trainingManagement": "Training Management",
+      "apiAccess": "API Access",
+      "customWorkflows": "Custom Workflows",
+      "dedicatedSupport": "Dedicated Support",
+      "slaGuarantee": "SLA Guarantee"
+    },
+    "faqs": [
+      {
+        "question": "How does the pricing work?",
+        "answer": "Our pricing is per employee per month. You only pay for active employees in your system. There are no hidden fees or long-term contracts."
+      },
+      {
+        "question": "Can I switch plans?",
+        "answer": "Yes, you can upgrade or downgrade your plan at any time. Changes take effect at the start of your next billing cycle."
+      },
+      {
+        "question": "Is there a free trial?",
+        "answer": "Yes, we offer a 14-day free trial for Starter and Professional plans. No credit card required."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards, bank transfers, and PayPal. Enterprise customers can also pay via invoice."
+      },
+      {
+        "question": "Do you offer discounts for nonprofits?",
+        "answer": "Yes, we offer special pricing for nonprofits and educational institutions. Contact our sales team for details."
+      },
+      {
+        "question": "What happens to my data if I cancel?",
+        "answer": "You can export all your data at any time. We retain your data for 30 days after cancellation, then securely delete it."
+      }
+    ]
+  },
+  "blogPage": {
+    "eyebrow": "Blog",
+    "title": "Latest Insights & Resources",
+    "description": "Stay informed with our latest thoughts on HR technology and workplace innovation.",
+    "featured": "Featured",
+    "readArticle": "Read Article",
+    "newsletterTitle": "Subscribe to Our Newsletter",
+    "newsletterDesc": "Get the latest HR insights, tips, and best practices delivered straight to your inbox.",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "categories": {
+      "all": "All",
+      "employeeEngagement": "Employee Engagement",
+      "performanceManagement": "Performance Management",
+      "aiTechnology": "AI Technology",
+      "onboarding": "Onboarding",
+      "remoteWork": "Remote Work",
+      "compliance": "Compliance",
+      "culture": "Culture",
+      "analytics": "Analytics",
+      "wellness": "Wellness",
+      "talentManagement": "Talent Management",
+      "changeManagement": "Change Management"
+    }
+  },
+  "featuresPage": {
+    "eyebrow": "Features",
+    "title": "Powerful Features for Modern HR Teams",
+    "description": "Our comprehensive suite of AI-powered tools transforms how you manage your human resources, from onboarding to performance management and beyond.",
+    "cta": "Get Started Today",
+    "features": {
+      "smartOnboarding": {
+        "title": "Smart Onboarding",
+        "description": "Streamline employee onboarding with AI-powered workflows, automated documentation, and personalized training paths.",
+        "benefits": [
+          "Reduce onboarding time by 60%",
+          "Automated document collection",
+          "Personalized welcome experiences"
+        ]
+      },
+      "aiAnalytics": {
+        "title": "AI-Powered Analytics",
+        "description": "Gain deep insights into workforce trends and make data-driven decisions with our advanced analytics platform.",
+        "benefits": [
+          "Real-time dashboards",
+          "Predictive insights",
+          "Custom reports"
+        ]
+      },
+      "performance": {
+        "title": "Performance Management",
+        "description": "Track and optimize employee performance with automated reviews, goal tracking, and development planning.",
+        "benefits": [
+          "360° feedback",
+          "Goal alignment",
+          "Career pathing"
+        ]
+      },
+      "compliance": {
+        "title": "Compliance Management",
+        "description": "Stay compliant with automated policy updates, document management, and regulatory tracking systems.",
+        "benefits": [
+          "Automated compliance checks",
+          "Audit trails",
+          "Policy management"
+        ]
+      },
+      "predictive": {
+        "title": "Predictive Analytics",
+        "description": "Our AI analyzes patterns in your workforce data to predict future trends and help you proactively address issues.",
+        "benefits": [
+          "Turnover prediction",
+          "Talent gap analysis",
+          "Succession planning"
+        ]
+      },
+      "recruiting": {
+        "title": "Intelligent Recruiting",
+        "description": "Streamline your hiring process with AI-powered candidate matching, automated screening, and bias detection.",
+        "benefits": [
+          "Smart candidate matching",
+          "Resume parsing",
+          "Interview scheduling"
+        ]
+      },
+      "automation": {
+        "title": "Workflow Automation",
+        "description": "Automate repetitive HR tasks and free up your team to focus on strategic initiatives.",
+        "benefits": [
+          "No-code workflows",
+          "Approval chains",
+          "Notifications"
+        ]
+      },
+      "global": {
+        "title": "Global HR Management",
+        "description": "Manage your global workforce with multi-country payroll, compliance, and localized experiences.",
+        "benefits": [
+          "Multi-currency support",
+          "Local compliance",
+          "Time zone management"
+        ]
+      },
+      "security": {
+        "title": "Enterprise Security",
+        "description": "Bank-grade security with SSO, role-based access control, and data encryption.",
+        "benefits": [
+          "SOC 2 compliant",
+          "GDPR ready",
+          "SSO integration"
+        ]
+      },
+      "attendance": {
+        "title": "Time & Attendance",
+        "description": "Track employee time, manage leave requests, and ensure accurate payroll calculations.",
+        "benefits": [
+          "Biometric integration",
+          "Leave management",
+          "Overtime tracking"
+        ]
+      },
+      "documents": {
+        "title": "Document Management",
+        "description": "Centralize all HR documents with version control, e-signatures, and secure storage.",
+        "benefits": [
+          "E-signatures",
+          "Version control",
+          "Document templates"
+        ]
+      },
+      "selfService": {
+        "title": "Employee Self-Service",
+        "description": "Empower employees with self-service access to their information, requests, and company resources.",
+        "benefits": [
+          "Mobile app",
+          "HR chatbot",
+          "Knowledge base"
+        ]
+      },
+      "oneClickPayroll": {
+        "title": "One-Click Payroll",
+        "description": "Calculate salaries, taxes, and benefits with a single click. Save hours of manual work every month.",
+        "benefits": [
+          "One-click salary calculation",
+          "Automatic tax computation",
+          "Benefits integration"
+        ]
+      },
+      "oneClickStoreScheduling": {
+        "title": "One-Click Store Scheduling",
+        "description": "Automatically generate optimal schedules for retail stores based on foot traffic and staff availability.",
+        "benefits": [
+          "Foot traffic analysis",
+          "Optimal staff allocation",
+          "Peak hour coverage"
+        ]
+      },
+      "oneClickFactoryScheduling": {
+        "title": "One-Click Factory Scheduling",
+        "description": "Create efficient shift schedules for manufacturing facilities considering production targets and labor regulations.",
+        "benefits": [
+          "Production target alignment",
+          "Labor law compliance",
+          "Shift optimization"
+        ]
+      },
+      "smartScheduling": {
+        "title": "Smart Scheduling",
+        "description": "AI-powered scheduling that adapts to your business needs and employee preferences.",
+        "benefits": [
+          "AI-driven optimization",
+          "Employee preference matching",
+          "Conflict resolution"
+        ]
+      }
+    }
+  }
+}

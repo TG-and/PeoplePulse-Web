@@ -1,0 +1,607 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "features": "Funciones",
+    "pricing": "Precios",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "clientPortal": "Portal del Cliente"
+  },
+  "hero": {
+    "eyebrow": "La Primera Plataforma RRHH AI-Nativa del Mundo",
+    "title": "Revolucione la Gestión de RRHH con IA",
+    "description": "PeoplePulseAI es la primera empresa de sistemas RRHH AI-nativa del mundo. No solo proporcionamos tecnología RRHH de vanguardia, sino también servicios integrales de seguros locales globales para proteger su fuerza laboral en todas partes.",
+    "ctaPrimary": "Comenzar",
+    "ctaSecondary": "Saber Más"
+  },
+  "clients": {
+    "title": "Confiado por más de 10,000 Empresas"
+  },
+  "features": {
+    "eyebrow": "Funciones",
+    "title": "Funciones Poderosas para Equipos de RRHH Modernos",
+    "description": "Nuestra suite integral de herramientas impulsadas por IA transforma la forma en que gestiona sus recursos humanos, desde la incorporación hasta la gestión del rendimiento y más allá.",
+    "items": {
+      "onboarding": {
+        "title": "Incorporación Inteligente",
+        "description": "Optimice la incorporación de empleados con flujos de trabajo impulsados por IA, documentación automatizada y rutas de capacitación personalizadas."
+      },
+      "analytics": {
+        "title": "Análisis Impulsado por IA",
+        "description": "Obtenga información profunda sobre las tendencias de la fuerza laboral y tome decisiones basadas en datos con nuestra plataforma de análisis avanzada."
+      },
+      "performance": {
+        "title": "Gestión del Rendimiento",
+        "description": "Rastree y optimice el rendimiento de los empleados con revisiones automatizadas, seguimiento de objetivos y planificación del desarrollo."
+      },
+      "compliance": {
+        "title": "Gestión de Cumplimiento",
+        "description": "Manténgase en cumplimiento con actualizaciones automáticas de políticas, gestión de documentos y sistemas de seguimiento regulatorio."
+      }
+    }
+  },
+  "modules": {
+    "eyebrow": "Módulos Principales",
+    "title": "Módulos Principales, Cobertura RRHH Completa",
+    "description": "Nuestra plataforma todo en uno cubre cada aspecto de la gestión de RRHH con integración perfecta.",
+    "items": {
+      "portal": {
+        "title": "Portal de Autoservicio",
+        "features": [
+          "Autoservicio del empleado",
+          "Panel del gerente",
+          "Acceso móvil",
+          "Q&A inteligente"
+        ]
+      },
+      "hr": {
+        "title": "Gestión de RRHH Principal",
+        "features": [
+          "Estructura organizativa",
+          "Ciclo de vida del empleado",
+          "Gestión de posiciones",
+          "Búsqueda inteligente"
+        ]
+      },
+      "payroll": {
+        "title": "Gestión de Nómina",
+        "features": [
+          "Cálculo de salarios",
+          "Integración fiscal",
+          "Seguro social",
+          "Seguimiento de costos"
+        ]
+      },
+      "attendance": {
+        "title": "Gestión de Asistencia",
+        "features": [
+          "Reglas flexibles",
+          "Programación inteligente",
+          "Soporte global",
+          "Cálculo en tiempo real"
+        ]
+      },
+      "training": {
+        "title": "Gestión de Capacitación",
+        "features": [
+          "Gestión de cursos",
+          "E-learning",
+          "Certificación",
+          "Análisis de capacitación"
+        ]
+      },
+      "benefits": {
+        "title": "Beneficios y Seguros Globales",
+        "features": [
+          "Solicitud de beneficios autoservicio",
+          "Visualización de pólizas en línea",
+          "Procesamiento de reclamos",
+          "Cobertura local global"
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Testimonios",
+    "title": "Confiado por Líderes de la Industria",
+    "description": "Vea lo que nuestros clientes dicen sobre su experiencia con PeoplePulse.",
+    "items": [
+      {
+        "quote": "PeoplePulse ha revolucionado nuestras operaciones de RRHH. Los conocimientos impulsados por IA nos han ayudado a tomar mejores decisiones para nuestra fuerza laboral.",
+        "name": "Sarah Stevens",
+        "company": "Tech Innovators Inc."
+      },
+      {
+        "quote": "La automatización de la incorporación nos ha ahorrado innumerables horas y ha mejorado significativamente la experiencia de nuestros nuevos empleados.",
+        "name": "Mike Chen",
+        "company": "Global Enterprises"
+      },
+      {
+        "quote": "El panel de análisis nos da visibilidad en tiempo real de nuestras métricas de fuerza laboral. Ha sido un cambio de juego para nuestra estrategia de RRHH.",
+        "name": "Jessica Brown",
+        "company": "Future Works Ltd"
+      }
+    ]
+  },
+  "ai": {
+    "eyebrow": "Impulsado por IA",
+    "title": "Cómo la IA Transforma la Gestión de RRHH",
+    "description": "Experimente el poder de la IA en cada aspecto de sus operaciones de RRHH.",
+    "items": {
+      "predictive": {
+        "title": "Análisis Predictivo",
+        "description": "Nuestra IA analiza patrones en sus datos de fuerza laboral para predecir tendencias futuras, ayudándole a abordar proactivamente problemas potenciales antes de que surjan."
+      },
+      "recruiting": {
+        "title": "Reclutamiento Inteligente",
+        "description": "Optimice su proceso de contratación con coincidencia de candidatos impulsada por IA, selección automatizada y detección de sesgos para construir equipos diversos."
+      },
+      "experience": {
+        "title": "Experiencia Personalizada",
+        "description": "Ofrezca experiencias personalizadas para cada empleado basadas en su rol, habilidades y aspiraciones profesionales para impulsar el compromiso."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "title": "Precios Simples y Transparentes",
+    "description": "Elija el plan que se adapte a las necesidades de su organización y escale a medida que crece.",
+    "plans": {
+      "starter": {
+        "name": "Inicial",
+        "price": "$9",
+        "period": "por empleado / mes",
+        "description": "Perfecto para pequeñas empresas que recién comienzan con la gestión de RRHH",
+        "features": [
+          "Gestión de registros de empleados",
+          "Seguimiento de tiempo básico",
+          "Gestión de documentos",
+          "Portal de empleados",
+          "Soporte por correo electrónico"
+        ],
+        "cta": "Iniciar Prueba Gratuita"
+      },
+      "professional": {
+        "name": "Profesional",
+        "badge": "Más Popular",
+        "price": "$19",
+        "period": "por empleado / mes",
+        "description": "Funciones avanzadas para empresas en crecimiento con necesidades de RRHH más complejas",
+        "features": [
+          "Todo en Inicial",
+          "Análisis impulsado por IA",
+          "Gestión del rendimiento",
+          "Módulos de capacitación",
+          "Automatización de incorporación",
+          "Soporte prioritario"
+        ],
+        "cta": "Iniciar Prueba Gratuita"
+      },
+      "enterprise": {
+        "name": "Empresarial",
+        "price": "Personalizado",
+        "period": "precios personalizados",
+        "description": "Solución completa de gestión de RRHH para organizaciones grandes",
+        "features": [
+          "Todo en Profesional",
+          "Información avanzada de IA",
+          "Flujos de trabajo personalizados",
+          "Acceso API",
+          "Gerente de cuenta dedicado",
+          "Soporte premium 24/7",
+          "Integraciones personalizadas"
+        ],
+        "cta": "Contactar Ventas"
+      }
+    }
+  },
+  "stats": {
+    "eyebrow": "Alcance Global",
+    "title": "Confiado en Todo el Mundo",
+    "description": "PeoplePulseAI sirve a empresas en todo el mundo con soluciones RRHH impulsadas por IA y servicios de seguros locales.",
+    "items": {
+      "users": {
+        "label": "Satisfacción del Cliente",
+        "value": "98%",
+        "growth": "+12%"
+      },
+      "projects": {
+        "label": "Países Cubiertos",
+        "value": "50+",
+        "growth": "+24%"
+      },
+      "awards": {
+        "label": "Socios de Seguros",
+        "value": "200+",
+        "growth": "+8%"
+      },
+      "employees": {
+        "label": "Empleados Protegidos",
+        "value": "1M+",
+        "growth": "+32%"
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Transformar sus Operaciones de RRHH?",
+    "description": "Únase a miles de empresas que utilizan PeoplePulse para optimizar sus procesos de RRHH y mejorar la experiencia de los empleados.",
+    "ctaPrimary": "Solicitar Demo",
+    "ctaSecondary": "Iniciar Prueba Gratuita"
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Últimas Perspectivas y Recursos",
+    "description": "Manténgase informado con nuestros últimos pensamientos sobre tecnología RRHH e innovación en el lugar de trabajo.",
+    "readMore": "Leer más",
+    "viewAll": "Ver todas las publicaciones",
+    "categories": {
+      "engagement": "Compromiso del Empleado",
+      "performance": "Gestión del Rendimiento",
+      "ai": "Tecnología IA",
+      "onboarding": "Incorporación"
+    },
+    "posts": {
+      "engagement": {
+        "title": "Maximizando el Compromiso del Empleado con Encuestas Impulsadas por IA"
+      },
+      "performance": {
+        "title": "Gestión del Rendimiento Basada en Datos"
+      },
+      "ai": {
+        "title": "Cómo el Software RRHH Impulsado por IA Mejora la Conexión del Empleado"
+      },
+      "onboarding": {
+        "title": "Mejores Prácticas para la Incorporación de Empleados"
+      }
+    }
+  },
+  "footer": {
+    "description": "El primer sistema RRHH AI-nativo del mundo con servicios de seguros locales globales.",
+    "columns": {
+      "product": {
+        "title": "Producto",
+        "links": [
+          "Funciones",
+          "Precios",
+          "Testimonios",
+          "API",
+          "Integraciones"
+        ]
+      },
+      "resources": {
+        "title": "Recursos",
+        "links": [
+          "Blog",
+          "Documentación",
+          "Centro de Ayuda",
+          "Webinarios",
+          "Estudios de Caso"
+        ]
+      },
+      "company": {
+        "title": "Empresa",
+        "links": [
+          "Sobre Nosotros",
+          "Carreras",
+          "Contacto",
+          "Política de Privacidad",
+          "Términos de Servicio"
+        ]
+      }
+    },
+    "copyright": "© 2026 PeoplePulse. Todos los derechos reservados.",
+    "links": {
+      "documentation": "Documentación",
+      "helpCenter": "Centro de Ayuda",
+      "webinars": "Webinarios",
+      "caseStudies": "Estudios de Caso",
+      "aboutUs": "Sobre Nosotros",
+      "careers": "Carreras",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfService": "Términos de Servicio"
+    }
+  },
+  "language": {
+    "title": "Seleccionar Idioma"
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Contáctenos",
+    "description": "¿Tiene preguntas sobre nuestras soluciones de RRHH? Estamos aquí para ayudar. Comuníquese con nuestro equipo y le responderemos lo antes posible.",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "company": "Nombre de la empresa",
+      "phone": "Número de teléfono",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "success": "¡Gracias! Su mensaje ha sido enviado exitosamente."
+    },
+    "info": {
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "address": "Dirección",
+      "hours": "Horario de atención"
+    }
+  },
+  "blogPost": {
+    "backToBlog": "Volver al Blog",
+    "share": "Compartir",
+    "relatedPosts": "Artículos Relacionados",
+    "readMore": "Leer Más"
+  },
+  "clientPortal": {
+    "welcomeTitle": "Bienvenido a tu Panel de RRHH",
+    "welcomeDesc": "Accede a los datos de tus empleados, gestiona flujos de trabajo y obtén información poderosa—todo en un solo lugar.",
+    "features": [
+      "Gestionar registros de empleados",
+      "Rastrear tiempo y asistencia",
+      "Ejecutar nómina y beneficios",
+      "Generar informes y análisis",
+      "Automatizar flujos de trabajo de RRHH"
+    ],
+    "signInTitle": "Inicia sesión en tu cuenta",
+    "signUpTitle": "Crea tu cuenta",
+    "noAccount": "¿No tienes una cuenta?",
+    "hasAccount": "¿Ya tienes una cuenta?",
+    "signUp": "Registrarse",
+    "signIn": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "rememberMe": "Recuérdame",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "agreeTerms": "Acepto los",
+    "termsOfService": "Términos de Servicio",
+    "privacyPolicy": "Política de Privacidad",
+    "and": "y",
+    "createAccount": "Crear cuenta",
+    "needHelp": "¿Necesitas ayuda?",
+    "contactSupport": "Contacta a nuestro equipo de soporte",
+    "comingSoon": "¡Próximamente!",
+    "comingSoonDesc": "El portal de clientes está actualmente en desarrollo. Contáctanos para acceso anticipado.",
+    "contactUs": "Contáctanos"
+  },
+  "pricingPage": {
+    "eyebrow": "Pricing",
+    "title": "Simple, Transparent Pricing",
+    "description": "Choose the plan that fits your organization's needs. No hidden fees, cancel anytime.",
+    "mostPopular": "Most Popular",
+    "comparePlans": "Compare Plans",
+    "compareDesc": "See which plan is right for your organization",
+    "feature": "Feature",
+    "faq": "Frequently Asked Questions",
+    "faqDesc": "Everything you need to know about our pricing",
+    "stillQuestions": "Still Have Questions?",
+    "stillQuestionsDesc": "Our team is here to help you find the perfect plan for your organization.",
+    "contactSales": "Contact Sales",
+    "emailUs": "Email Us",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "period": "per employee / month",
+        "description": "Perfect for small businesses just getting started with HR management"
+      },
+      "professional": {
+        "name": "Professional",
+        "period": "per employee / month",
+        "description": "Advanced features for growing businesses with more complex HR needs"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "period": "tailored pricing",
+        "description": "Complete HR management solution for large organizations"
+      }
+    },
+    "features": {
+      "employeeManagement": "Employee Management",
+      "timeTracking": "Time Tracking",
+      "documentStorage": "Document Storage",
+      "aiAnalytics": "AI Analytics",
+      "performanceReviews": "Performance Reviews",
+      "trainingManagement": "Training Management",
+      "apiAccess": "API Access",
+      "customWorkflows": "Custom Workflows",
+      "dedicatedSupport": "Dedicated Support",
+      "slaGuarantee": "SLA Guarantee"
+    },
+    "faqs": [
+      {
+        "question": "How does the pricing work?",
+        "answer": "Our pricing is per employee per month. You only pay for active employees in your system. There are no hidden fees or long-term contracts."
+      },
+      {
+        "question": "Can I switch plans?",
+        "answer": "Yes, you can upgrade or downgrade your plan at any time. Changes take effect at the start of your next billing cycle."
+      },
+      {
+        "question": "Is there a free trial?",
+        "answer": "Yes, we offer a 14-day free trial for Starter and Professional plans. No credit card required."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept all major credit cards, bank transfers, and PayPal. Enterprise customers can also pay via invoice."
+      },
+      {
+        "question": "Do you offer discounts for nonprofits?",
+        "answer": "Yes, we offer special pricing for nonprofits and educational institutions. Contact our sales team for details."
+      },
+      {
+        "question": "What happens to my data if I cancel?",
+        "answer": "You can export all your data at any time. We retain your data for 30 days after cancellation, then securely delete it."
+      }
+    ]
+  },
+  "blogPage": {
+    "eyebrow": "Blog",
+    "title": "Latest Insights & Resources",
+    "description": "Stay informed with our latest thoughts on HR technology and workplace innovation.",
+    "featured": "Featured",
+    "readArticle": "Read Article",
+    "newsletterTitle": "Subscribe to Our Newsletter",
+    "newsletterDesc": "Get the latest HR insights, tips, and best practices delivered straight to your inbox.",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "categories": {
+      "all": "All",
+      "employeeEngagement": "Employee Engagement",
+      "performanceManagement": "Performance Management",
+      "aiTechnology": "AI Technology",
+      "onboarding": "Onboarding",
+      "remoteWork": "Remote Work",
+      "compliance": "Compliance"
+    }
+  },
+  "featuresPage": {
+    "eyebrow": "Features",
+    "title": "Powerful Features for Modern HR Teams",
+    "description": "Our comprehensive suite of AI-powered tools transforms how you manage your human resources, from onboarding to performance management and beyond.",
+    "cta": "Get Started Today",
+    "features": {
+      "smartOnboarding": {
+        "title": "Smart Onboarding",
+        "description": "Streamline employee onboarding with AI-powered workflows, automated documentation, and personalized training paths.",
+        "benefits": [
+          "Reduce onboarding time by 60%",
+          "Automated document collection",
+          "Personalized welcome experiences"
+        ]
+      },
+      "aiAnalytics": {
+        "title": "AI-Powered Analytics",
+        "description": "Gain deep insights into workforce trends and make data-driven decisions with our advanced analytics platform.",
+        "benefits": [
+          "Real-time dashboards",
+          "Predictive insights",
+          "Custom reports"
+        ]
+      },
+      "performance": {
+        "title": "Performance Management",
+        "description": "Track and optimize employee performance with automated reviews, goal tracking, and development planning.",
+        "benefits": [
+          "360° feedback",
+          "Goal alignment",
+          "Career pathing"
+        ]
+      },
+      "compliance": {
+        "title": "Compliance Management",
+        "description": "Stay compliant with automated policy updates, document management, and regulatory tracking systems.",
+        "benefits": [
+          "Automated compliance checks",
+          "Audit trails",
+          "Policy management"
+        ]
+      },
+      "predictive": {
+        "title": "Predictive Analytics",
+        "description": "Our AI analyzes patterns in your workforce data to predict future trends and help you proactively address issues.",
+        "benefits": [
+          "Turnover prediction",
+          "Talent gap analysis",
+          "Succession planning"
+        ]
+      },
+      "recruiting": {
+        "title": "Intelligent Recruiting",
+        "description": "Streamline your hiring process with AI-powered candidate matching, automated screening, and bias detection.",
+        "benefits": [
+          "Smart candidate matching",
+          "Resume parsing",
+          "Interview scheduling"
+        ]
+      },
+      "automation": {
+        "title": "Workflow Automation",
+        "description": "Automate repetitive HR tasks and free up your team to focus on strategic initiatives.",
+        "benefits": [
+          "No-code workflows",
+          "Approval chains",
+          "Notifications"
+        ]
+      },
+      "global": {
+        "title": "Global HR Management",
+        "description": "Manage your global workforce with multi-country payroll, compliance, and localized experiences.",
+        "benefits": [
+          "Multi-currency support",
+          "Local compliance",
+          "Time zone management"
+        ]
+      },
+      "security": {
+        "title": "Enterprise Security",
+        "description": "Bank-grade security with SSO, role-based access control, and data encryption.",
+        "benefits": [
+          "SOC 2 compliant",
+          "GDPR ready",
+          "SSO integration"
+        ]
+      },
+      "attendance": {
+        "title": "Time & Attendance",
+        "description": "Track employee time, manage leave requests, and ensure accurate payroll calculations.",
+        "benefits": [
+          "Biometric integration",
+          "Leave management",
+          "Overtime tracking"
+        ]
+      },
+      "documents": {
+        "title": "Document Management",
+        "description": "Centralize all HR documents with version control, e-signatures, and secure storage.",
+        "benefits": [
+          "E-signatures",
+          "Version control",
+          "Document templates"
+        ]
+      },
+      "selfService": {
+        "title": "Employee Self-Service",
+        "description": "Empower employees with self-service access to their information, requests, and company resources.",
+        "benefits": [
+          "Mobile app",
+          "HR chatbot",
+          "Knowledge base"
+        ]
+      },
+      "oneClickPayroll": {
+        "title": "One-Click Payroll",
+        "description": "Calculate salaries, taxes, and benefits with a single click. Save hours of manual work every month.",
+        "benefits": [
+          "One-click salary calculation",
+          "Automatic tax computation",
+          "Benefits integration"
+        ]
+      },
+      "oneClickStoreScheduling": {
+        "title": "One-Click Store Scheduling",
+        "description": "Automatically generate optimal schedules for retail stores based on foot traffic and staff availability.",
+        "benefits": [
+          "Foot traffic analysis",
+          "Optimal staff allocation",
+          "Peak hour coverage"
+        ]
+      },
+      "oneClickFactoryScheduling": {
+        "title": "One-Click Factory Scheduling",
+        "description": "Create efficient shift schedules for manufacturing facilities considering production targets and labor regulations.",
+        "benefits": [
+          "Production target alignment",
+          "Labor law compliance",
+          "Shift optimization"
+        ]
+      },
+      "smartScheduling": {
+        "title": "Smart Scheduling",
+        "description": "AI-powered scheduling that adapts to your business needs and employee preferences.",
+        "benefits": [
+          "AI-driven optimization",
+          "Employee preference matching",
+          "Conflict resolution"
+        ]
+      }
+    }
+  }
+}

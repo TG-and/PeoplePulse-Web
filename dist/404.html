@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=/">
+  <script>
+    // Single Page App routing fix
+    var path = window.location.pathname;
+    var search = window.location.search;
+    var hash = window.location.hash;
+    localStorage.setItem('spa-path', path + search + hash);
+    window.location.replace('/');
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>

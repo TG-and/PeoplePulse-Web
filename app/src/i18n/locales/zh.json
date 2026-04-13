@@ -1,0 +1,754 @@
+{
+  "nav": {
+    "home": "首页",
+    "features": "功能",
+    "pricing": "定价",
+    "blog": "博客",
+    "contact": "联系我们",
+    "clientPortal": "客户门户"
+  },
+  "hero": {
+    "eyebrow": "全球首家AI原生HR平台",
+    "title": "用AI革新人力资源管理",
+    "description": "PeoplePulseAI是全球首家AI原生人力资源系统公司。我们不仅提供尖端的人力资源技术，还提供全面的全球本地保险服务，随时随地保护您的员工。",
+    "ctaPrimary": "开始使用",
+    "ctaSecondary": "了解更多"
+  },
+  "clients": {
+    "title": "超过10,000+企业信赖"
+  },
+  "features": {
+    "eyebrow": "核心功能",
+    "title": "全球最强HR平台",
+    "description": "体验我们为全球企业打造的AI原生平台带来的下一代HR管理。",
+    "items": {
+      "salaryEngine": {
+        "title": "最强薪酬计算引擎",
+        "description": "一键完成复杂薪资计算，支持多国薪资体系，内置税务优化。"
+      },
+      "insuranceIntegration": {
+        "title": "薪酬福利保险集成",
+        "description": "与全球保险供应商无缝集成，自动扣款和缴款。"
+      },
+      "lowCodePlatform": {
+        "title": "强大低代码平台",
+        "description": "无需代码即可构建自定义工作流和表单。任何HR流程都可视化构建。"
+      },
+      "aiNative": {
+        "title": "全AI原生架构",
+        "description": "从底层构建的AI架构，每个模块都有预测分析和智能自动化。"
+      }
+    }
+  },
+  "modules": {
+    "eyebrow": "核心模块",
+    "title": "核心模块，全面覆盖HR业务",
+    "description": "我们的一体化平台涵盖人力资源管理的方方面面，实现无缝集成。",
+    "items": {
+      "portal": {
+        "title": "自助门户管理",
+        "features": [
+          "员工自助服务",
+          "管理者工作台",
+          "移动化应用",
+          "智能咨询问答"
+        ]
+      },
+      "hr": {
+        "title": "核心人事管理",
+        "features": [
+          "组织架构管理",
+          "员工全生命周期",
+          "岗位职级体系",
+          "超级搜索引擎"
+        ]
+      },
+      "payroll": {
+        "title": "薪资管理",
+        "features": [
+          "定薪调薪管理",
+          "一键报税集成",
+          "社保公积金",
+          "成本中心管理"
+        ]
+      },
+      "attendance": {
+        "title": "假勤管理",
+        "features": [
+          "灵活规则配置",
+          "智能排班系统",
+          "全球打卡假期",
+          "实时假期计算"
+        ]
+      },
+      "training": {
+        "title": "培训管理",
+        "features": [
+          "课程资源管理",
+          "E-learning",
+          "证书管理",
+          "培训地图分析"
+        ]
+      },
+      "benefits": {
+        "title": "全球福利与保险",
+        "features": [
+          "自助福利申请",
+          "在线保单查看",
+          "理赔全流程服务",
+          "全球本地覆盖"
+        ]
+      },
+      "performance": {
+        "title": "绩效管理",
+        "features": [
+          "KPI跟踪",
+          "360评估",
+          "目标对齐",
+          "发展计划"
+        ]
+      },
+      "talent": {
+        "title": "人才管理",
+        "features": [
+          "人才池",
+          "继任计划",
+          "职业路径",
+          "技能图谱"
+        ]
+      },
+      "recruiting": {
+        "title": "智能招聘",
+        "features": [
+          "AI匹配",
+          "简历解析",
+          "面试安排",
+          "录用管理"
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "客户评价",
+    "title": "深受行业领袖信赖",
+    "description": "看看我们的客户如何评价PeoplePulse的体验。",
+    "items": [
+      {
+        "quote": "PeoplePulse彻底改变了我们的HR运营。AI驱动的洞察帮助我们为员工做出更好的决策。",
+        "name": "张伟",
+        "company": "科技创新公司"
+      },
+      {
+        "quote": "入职自动化为我们节省了无数时间，显著改善了新员工体验。",
+        "name": "李娜",
+        "company": "环球企业"
+      },
+      {
+        "quote": "分析仪表板让我们实时了解员工指标。它改变了我们的HR战略。",
+        "name": "王芳",
+        "company": "未来工场"
+      }
+    ]
+  },
+  "ai": {
+    "eyebrow": "AI驱动",
+    "title": "AI如何改变人力资源管理",
+    "description": "在HR运营的每个方面体验AI的力量。",
+    "items": {
+      "predictive": {
+        "title": "预测分析",
+        "description": "我们的AI分析员工数据模式，预测未来趋势，帮助您主动应对潜在问题。"
+      },
+      "recruiting": {
+        "title": "智能招聘",
+        "description": "通过AI驱动的候选人匹配、自动筛选和偏见检测，简化招聘流程，打造多元化团队。"
+      },
+      "experience": {
+        "title": "个性化体验",
+        "description": "根据每位员工的角色、技能和职业抱负，提供定制体验，提升敬业度。"
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "定价",
+    "title": "简单透明的定价",
+    "description": "选择适合您组织需求的方案，随发展而扩展。",
+    "plans": {
+      "starter": {
+        "name": "入门版",
+        "price": "¥69",
+        "period": "每员工/月",
+        "description": "适合刚接触HR管理的小型企业",
+        "features": [
+          "员工档案管理",
+          "基础时间跟踪",
+          "文档管理",
+          "员工门户",
+          "邮件支持"
+        ],
+        "cta": "开始免费试用"
+      },
+      "professional": {
+        "name": "专业版",
+        "badge": "最受欢迎",
+        "price": "¥149",
+        "period": "每员工/月",
+        "description": "为HR需求更复杂的成长型企业提供高级功能",
+        "features": [
+          "入门版全部功能",
+          "AI驱动分析",
+          "绩效管理",
+          "培训模块",
+          "入职自动化",
+          "优先支持"
+        ],
+        "cta": "开始免费试用"
+      },
+      "enterprise": {
+        "name": "企业版",
+        "price": "定制",
+        "period": "专属定价",
+        "description": "为大型组织提供的完整HR管理解决方案",
+        "features": [
+          "专业版全部功能",
+          "高级AI洞察",
+          "自定义工作流",
+          "API访问",
+          "专属客户经理",
+          "24/7高级支持",
+          "自定义集成"
+        ],
+        "cta": "联系销售"
+      }
+    }
+  },
+  "stats": {
+    "eyebrow": "全球覆盖",
+    "title": "全球企业信赖",
+    "description": "PeoplePulseAI为全球企业提供AI驱动的人力资源解决方案和本地保险服务。",
+    "items": {
+      "users": {
+        "label": "客户满意度",
+        "value": "98%",
+        "growth": "+12%"
+      },
+      "projects": {
+        "label": "覆盖国家",
+        "value": "50+",
+        "growth": "+24%"
+      },
+      "awards": {
+        "label": "保险合作伙伴",
+        "value": "200+",
+        "growth": "+8%"
+      },
+      "employees": {
+        "label": "受保护员工",
+        "value": "100万+",
+        "growth": "+32%"
+      }
+    }
+  },
+  "cta": {
+    "title": "准备好转变您的HR运营了吗？",
+    "description": "加入数千家使用PeoplePulse简化HR流程、改善员工体验的公司。",
+    "ctaPrimary": "预约演示",
+    "ctaSecondary": "开始免费试用"
+  },
+  "blog": {
+    "eyebrow": "博客",
+    "title": "最新洞察与资源",
+    "description": "了解我们对HR技术和工作场所创新的最新思考。",
+    "readMore": "阅读更多",
+    "viewAll": "查看全部文章",
+    "categories": {
+      "engagement": "员工敬业度",
+      "performance": "绩效管理",
+      "ai": "AI技术",
+      "onboarding": "入职培训",
+      "retention": "员工留存",
+      "diversity": "多元与包容",
+      "metrics": "HR指标",
+      "remote": "远程办公"
+    },
+    "posts": {
+      "maximizingemployeeengagement": {
+        "title": "通过AI驱动的调查最大化员工敬业度",
+        "excerpt": "了解AI驱动的员工调查如何帮助您理解和提高员工满意度，从而提高留存率和生产力。"
+      },
+      "datadrivenperformancemanagement": {
+        "title": "数据驱动的绩效管理",
+        "excerpt": "了解如何利用数据分析创建更有效的绩效管理流程。"
+      },
+      "aihrsoftwareemployeeconnection": {
+        "title": "AI驱动的HR软件如何增强员工连接",
+        "excerpt": "探索人工智能如何改变组织与员工连接的方式。"
+      },
+      "employeeonboardingbestpractices": {
+        "title": "员工入职最佳实践",
+        "excerpt": "通过这些经过验证的入职策略创造难忘的第一印象。"
+      },
+      "employeeretentionstrategies": {
+        "title": "降低员工离职率的10个有效策略",
+        "excerpt": "了解成功企业如何利用数据驱动的策略留住人才并建立持久的员工忠诚度。"
+      },
+      "workplacediversityinclusionguide": {
+        "title": "打造包容性工作场所完整指南",
+        "excerpt": "通过有效的多元化与包容性计划创建一个让每位员工都感到被重视并能发挥最佳表现的工作场所。"
+      },
+      "hrmetricsdashboardguide": {
+        "title": "每个HR专业人士应追踪的核心指标",
+        "excerpt": "超越基本人数统计，了解哪些HR分析真正影响业务成果。"
+      },
+      "remoteteammanagementbestpractices": {
+        "title": "远程团队管理最佳实践",
+        "excerpt": "通过经过验证的策略应对分布式 workforce 管理的挑战，提高生产力和敬业度。"
+      },
+      "employeewellnessprogramsguide": {
+        "title": "建立有效的员工健康计划",
+        "excerpt": "创建综合健康倡议，改善员工健康、降低成本并提高生产力。"
+      },
+      "talentmanagementstrategies": {
+        "title": "战略性人才管理：吸引、培养、留存",
+        "excerpt": "建立与业务目标一致的综合人才战略，通过人才创造竞争优势。"
+      },
+      "changemanagementhrguide": {
+        "title": "HR变革管理：引领组织转型",
+        "excerpt": "掌握在保持员工敬业度和生产力贯穿始终的同时管理组织变革的艺术。"
+      },
+      "hrtechnologyfuturetrends": {
+        "title": "HR科技的未来：值得关注的趋势",
+        "excerpt": "探索将重塑未来十年HR的新兴技术，从AI到区块链。"
+      },
+      "performancereviewalternatives": {
+        "title": "超越年度评审：现代绩效管理方法",
+        "excerpt": "发现推动持续改进和员工成长的替代性绩效管理方法。"
+      },
+      "hrcompliance2025": {
+        "title": "2025年HR合规清单",
+        "excerpt": "确保您的组织为2025年及以后的关键HR合规要求做好准备。"
+      }
+    }
+  },
+  "footer": {
+    "description": "全球首家AI原生人力资源系统，提供全球本地保险服务。",
+    "columns": {
+      "product": {
+        "title": "产品",
+        "links": [
+          "功能",
+          "定价",
+          "客户评价",
+          "API",
+          "集成"
+        ]
+      },
+      "resources": {
+        "title": "资源",
+        "links": [
+          "博客",
+          "文档",
+          "帮助中心",
+          "网络研讨会",
+          "案例研究"
+        ]
+      },
+      "company": {
+        "title": "公司",
+        "links": [
+          "关于我们",
+          "招聘",
+          "联系我们",
+          "隐私政策",
+          "服务条款"
+        ]
+      }
+    },
+    "copyright": "© 2026 PeoplePulse。保留所有权利。",
+    "links": {
+      "documentation": "文档",
+      "helpCenter": "帮助中心",
+      "webinars": "网络研讨会",
+      "caseStudies": "案例研究",
+      "aboutUs": "关于我们",
+      "careers": "招聘",
+      "privacyPolicy": "隐私政策",
+      "termsOfService": "服务条款"
+    }
+  },
+  "language": {
+    "title": "选择语言"
+  },
+  "contact": {
+    "eyebrow": "联系我们",
+    "title": "与我们取得联系",
+    "description": "对我们的HR解决方案有疑问？我们随时为您提供帮助。联系我们的团队，我们会尽快回复您。",
+    "form": {
+      "name": "姓名",
+      "email": "电子邮箱",
+      "company": "公司名称",
+      "phone": "电话号码",
+      "subject": "主题",
+      "message": "留言内容",
+      "submit": "发送消息",
+      "success": "感谢您！您的消息已成功发送。"
+    },
+    "info": {
+      "email": "电子邮箱",
+      "phone": "电话",
+      "address": "地址",
+      "hours": "工作时间"
+    }
+  },
+  "blogPost": {
+    "backToBlog": "返回博客",
+    "share": "分享",
+    "relatedPosts": "相关文章",
+    "readMore": "阅读更多",
+    "posts": {
+      "maximizing-employee-engagement": {
+        "title": "利用AI驱动的调查最大化员工敬业度",
+        "excerpt": "了解AI驱动的员工调查如何帮助您理解和提高员工满意度，从而提高留存率和生产力。",
+        "content": "\n                  <p>在当今竞争激烈的商业环境中，员工敬业度变得比以往任何时候都更加重要。优先考虑员工满意度的组织在生产力、创新和留存率方面始终优于竞争对手。</p>\n\n                  <h2>传统调查的挑战</h2>\n                  <p>传统员工调查有几个局限性。它们通常太长、进行频率太低，无法捕捉员工情绪的细微差别。</p>\n\n                  <h2>AI驱动的调查</h2>\n                  <p>人工智能正在彻底改变我们收集和分析员工反馈的方式。AI驱动的调查提供以下关键优势：</p>\n\n                  <ul>\n                    <li><strong>实时分析：</strong>在回复进来时立即获得洞察。</li>\n                    <li><strong>情感分析：</strong>AI可以检测回复中的情感基调。</li>\n                    <li><strong>智能跟进：</strong>根据回复自动生成跟进问题。</li>\n                    <li><strong>趋势检测：</strong>识别随时间变化的模式。</li>\n                  </ul>\n\n                  <h2>最佳实践</h2>\n                  <p>保持调查简短、确保匿名性、根据洞察采取行动，并定期进行。</p>\n                "
+      },
+      "data-driven-performance-management": {
+        "title": "数据驱动的绩效管理：完整指南",
+        "excerpt": "了解如何利用数据分析创建更有效的绩效管理流程。",
+        "content": "\n                  <p>绩效管理在过去十年中发生了重大演变。年度评估和直觉评估的日子已经一去不复返了。</p>\n\n                  <h2>数据革命</h2>\n                  <p>现代绩效管理依赖于持续的数据收集和分析。这种方法提供：</p>\n\n                  <ul>\n                    <li>客观的绩效指标</li>\n                    <li>实时反馈机会</li>\n                    <li>发展的预测性洞察</li>\n                    <li>公平透明的评估</li>\n                  </ul>\n\n                  <h2>实施策略</h2>\n                  <p>从明确的目标开始，选择正确的指标，并确保管理者接受数据解读培训。</p>\n                "
+      },
+      "ai-hr-software-employee-connection": {
+        "title": "AI驱动的HR软件如何增强员工连接",
+        "excerpt": "探索人工智能如何改变组织与员工连接的方式。",
+        "content": "\n                  <p>现代工作场所越来越数字化，但这并不意味着人际连接必须受到影响。AI实际上正在帮助弥合这一差距。</p>\n\n                  <h2>规模化个性化</h2>\n                  <p>AI为每位员工提供个性化体验，从入职到职业发展。</p>\n\n                  <h2>主要优势</h2>\n                  <ul>\n                    <li>通过AI助手提供24/7支持</li>\n                    <li>个性化学习推荐</li>\n                    <li>主动健康干预</li>\n                    <li>智能排班以实现更好的工作与生活平衡</li>\n                  </ul>\n                "
+      },
+      "employee-onboarding-best-practices": {
+        "title": "员工入职最佳实践",
+        "excerpt": "通过这些经过验证的入职策略创造难忘的第一印象。",
+        "content": "\n                  <p>第一印象很重要。精心设计的入职流程可以显著影响员工留存率和敬业度。</p>\n\n                  <h2>90天框架</h2>\n                  <p>有效的入职跨越前90天及以后：</p>\n\n                  <ul>\n                    <li><strong>第1天：</strong>欢迎、设置和介绍</li>\n                    <li><strong>第1周：</strong>角色清晰度和初步培训</li>\n                    <li><strong>第1个月：</strong>首批项目和反馈</li>\n                    <li><strong>第3个月：</strong>绩效评估和目标设定</li>\n                  </ul>\n\n                  <h2>技术赋能</h2>\n                  <p>使用自动化简化文书工作，腾出时间进行有意义的人际连接。</p>\n                "
+      },
+      "employee-retention-strategies": {
+        "title": "降低员工离职率的10个有效策略",
+        "excerpt": "了解成功企业如何利用数据驱动的策略留住人才并建立持久的员工忠诚度。",
+        "content": "\n                  <p>员工离职成本很高，每个离职员工的替换成本高达数千美元。但通过正确的策略，您可以显著降低离职率并留住顶尖人才。</p>\n\n                  <h2>理解离职成本</h2>\n                  <p>在深入研究解决方案之前，了解您要应对的问题很重要：</p>\n\n                  <ul>\n                    <li>直接成本包括招聘、入职和培训费用</li>\n                    <li>间接成本涉及生产力损失和知识流失</li>\n                    <li>隐藏成本影响团队士气和客户满意度</li>\n                  </ul>\n\n                  <h2>十大留存策略</h2>\n\n                  <ol>\n                    <li><strong>有竞争力的薪酬：</strong>定期对标行业薪资水平</li>\n                    <li><strong>职业发展：</strong>创建清晰的成长路径和晋升机会</li>\n                    <li><strong>工作与生活平衡：</strong>提供灵活的工作安排和远程工作选项</li>\n                    <li><strong>认可计划：</strong>实施正式和非正式的认可系统</li>\n                    <li><strong>持续反馈：</strong>从年度评审转向持续对话</li>\n                    <li><strong>专业发展：</strong>投资于培训和技能提升项目</li>\n                    <li><strong>健康与福利：</strong>提供包括心理健康支持在内的综合福利</li>\n                    <li><strong>强大的企业文化：</strong>建立和维护积极包容的工作场所文化</li>\n                    <li><strong>领导力发展：</strong>培训管理者成为有效的教练和导师</li>\n                    <li><strong>离职面谈：</strong>从离职中学习以防止未来的离职</li>\n                  </ol>\n\n                  <h2>衡量成功</h2>\n                  <p>每月追踪您的留存指标并设定改进目标。将您的离职率与行业基准进行比较，以了解您所处的位置。</p>\n                "
+      },
+      "workplace-diversity-inclusion-guide": {
+        "title": "打造包容性工作场所完整指南",
+        "excerpt": "通过有效的多元化与包容性计划创建一个让每位员工都感到被重视并能发挥最佳表现的工作场所。",
+        "content": "\n                  <p>多元化和包容性不再是可选项——它们是商业必需品。拥有多元化团队的公司表现优于同行35%。以下是如何建立一个真正包容的工作场所。</p>\n\n                  <h2>多元化和包容性的真正含义</h2>\n                  <p>多元化关乎代表性——谁在您的组织中。包容性关乎体验——他们如何被对待，以及他们是否能茁壮成长。</p>\n\n                  <h2>包容性工作场所的基石</h2>\n\n                  <ul>\n                    <li><strong>领导层承诺：</strong>DEI必须从高层开始，提供可见且持续的支持</li>\n                    <li><strong>代表性招聘：</strong>从招聘和晋升过程中消除偏见</li>\n                    <li><strong>平等薪酬：</strong>定期进行薪酬公平审计并解决差距</li>\n                    <li><strong>灵活政策：</strong>适应不同需求和工作方式</li>\n                    <li><strong>员工资源组：</strong>支持亲和团体及其倡议</li>\n                  </ul>\n\n                  <h2>培训和发展</h2>\n                  <p>实施关于无意识偏见、包容性领导力和尊重沟通的定期培训。确保培训超越合规性，推动真正的行为改变。</p>\n\n                  <h2>衡量进展</h2>\n                  <p>追踪各层次的代表性，定期进行调查，监控跨人口统计数据的晋升率，并追究领导者对进展的责任。</p>\n\n                  <h2>商业案例</h2>\n                  <p>多元化公司表现优于同行的可能性高出35%。包容性推动创新、改善决策并扩大市场覆盖。</p>\n                "
+      },
+      "hr-metrics-dashboard-guide": {
+        "title": "每个HR专业人士应追踪的核心指标",
+        "excerpt": "超越基本人数统计，了解哪些HR分析真正影响业务成果。",
+        "content": "\n                  <p>数据驱动的HR正在改变组织做出 workforce 决策的方式。但哪些指标真正重要？以下是每个HR专业人士都应该掌握的核心HR分析的指南。</p>\n\n                  <h2>招聘指标</h2>\n\n                  <ul>\n                    <li><strong>招聘时间：</strong>填补职位需要多长时间</li>\n                    <li><strong>每次招聘成本：</strong>总招聘支出除以招聘人数</li>\n                    <li><strong>招聘质量：</strong>新员工随时间的表现</li>\n                    <li><strong>录用接受率：</strong>接受的录用通知百分比</li>\n                  </ul>\n\n                  <h2>留存指标</h2>\n\n                  <ul>\n                    <li><strong>离职率：</strong>离职员工百分比</li>\n                    <li><strong>可惜离职：</strong>高绩效者的流失</li>\n                    <li><strong>任期统计：</strong>按部门的平均员工任期</li>\n                    <li><strong>按人口统计的留存：</strong>识别留存差距</li>\n                  </ul>\n\n                  <h2>敬业度指标</h2>\n\n                  <ul>\n                    <li><strong>eNPS分数：</strong>员工净推荐值</li>\n                    <li><strong>调查回复率：</strong>反馈倡议的参与度</li>\n                    <li><strong>敬业度分数：</strong>总体敬业度水平</li>\n                  </ul>\n\n                  <h2>生产力指标</h2>\n\n                  <ul>\n                    <li><strong>每员工收入：</strong>总体生产力衡量</li>\n                    <li><strong>培训ROI：</strong>培训投资回报</li>\n                    <li><strong>绩效评级分布：</strong>绩效评分的分布</li>\n                  </ul>\n\n                  <h2>构建您的仪表板</h2>\n                  <p>从业务成果开始，反向推导识别推动成果的HR指标。每月更新并定期与领导层分享。</p>\n                "
+      },
+      "remote-team-management-best-practices": {
+        "title": "远程团队管理最佳实践",
+        "excerpt": "通过经过验证的策略应对分布式 workforce 管理的挑战，提高生产力和敬业度。",
+        "content": "\n                  <p>管理远程团队需要不同于办公室管理的技能。了解成功远程领导者用来建立高性能分布式团队的最佳实践。</p>\n\n                  <h2>沟通就是一切</h2>\n                  <p>在远程环境中，过度沟通实际上是健康的沟通：</p>\n\n                  <ul>\n                    <li>对非紧急事项使用异步沟通</li>\n                    <li>安排定期视频通话以保持团队协调</li>\n                    <li>广泛记录决策和分享会议纪要</li>\n                    <li>明确设定响应时间的期望</li>\n                  </ul>\n\n                  <h2>建立信任和问责制</h2>\n                  <p>信任是有效远程管理的基础：</p>\n\n                  <ol>\n                    <li>关注成果，而非工作时长</li>\n                    <li>设定明确的目标和可交付成果</li>\n                    <li>在保持可见性的同时提供自主权</li>\n                    <li>信任您的团队直到他们给您不这样做的理由</li>\n                  </ol>\n\n                  <h2>防止远程员工倦怠</h2>\n                  <p>远程员工经常难以断开连接：</p>\n\n                  <ul>\n                    <li>鼓励固定工作时间</li>\n                    <li>以身作则树立健康界限</li>\n                    <li>安排虚拟社交活动</li>\n                    <li>定期检查员工幸福感</li>\n                  </ul>\n\n                  <h2>工具和技术</h2>\n                  <p>投资于支持远程成功的协作工具：视频会议、项目管理、即时通讯和数字白板工具。</p>\n\n                  <h2>远程员工入职</h2>\n                  <p>远程入职需要额外关注。创建结构化项目，让新员工与导师配对，并在前90天期间包括定期检查。</p>\n                "
+      },
+      "employee-wellness-programs-guide": {
+        "title": "建立有效的员工健康计划",
+        "excerpt": "创建综合健康倡议，改善员工健康、降低成本并提高生产力。",
+        "content": "\n                  <p>员工健康计划是通过改善健康结果、减少缺勤率和提高敬业度获得回报的投资。以下是如何建立一个真正有效的计划。</p>\n\n                  <h2>健康的商业案例</h2>\n                  <p>拥有有效健康计划的公司看到：</p>\n\n                  <ul>\n                    <li>病假使用减少25%</li>\n                    <li>降低医疗成本</li>\n                    <li>更高的员工敬业度</li>\n                    <li>改善留存率</li>\n                  </ul>\n\n                  <h2>有效计划的核心组成部分</h2>\n\n                  <ol>\n                    <li><strong>身体健康：</strong>健身补贴、健康筛查、人体工程学评估</li>\n                    <li><strong>心理健康：</strong>EAP访问、咨询服务、压力管理资源</li>\n                    <li><strong>财务健康：</strong>退休规划、债务咨询、财务教育</li>\n                    <li><strong>社交健康：</strong>团队活动、社区参与机会</li>\n                    <li><strong>职业发展：</strong>职业教练、技能培养、成长机会</li>\n                  </ol>\n\n                  <h2>使计划可访问</h2>\n                  <p>健康计划必须具有包容性并可供所有员工使用，无论其职位、地点或个人情况如何。</p>\n\n                  <h2>衡量计划成功</h2>\n                  <p>追踪参与率、健康结果、计划ROI以及员工对计划的满意度。使用这些数据持续改进您的产品。</p>\n\n                  <h2>要避免的常见陷阱</h2>\n                  <p>不要让计划纯粹具有惩罚性，忽视心理健康，或提供一刀切的解决方案。个性化是参与度的关键。</p>\n                "
+      },
+      "talent-management-strategies": {
+        "title": "战略性人才管理：吸引、培养、留存",
+        "excerpt": "建立与业务目标一致的综合人才战略，通过人才创造竞争优势。",
+        "content": "\n                  <p>人才管理是吸引、培养和留住人才的系统性过程。做得好，它会通过人才创造可持续的竞争优势。</p>\n\n                  <h2>人才管理框架</h2>\n\n                  <ul>\n                    <li><strong>吸引：</strong>雇主品牌、招聘营销、候选人体验</li>\n                    <li><strong>选择：</strong>严格的招聘流程、评估工具、结构化面试</li>\n                    <li><strong>培养：</strong>培训、辅导、职业路径、技能培养</li>\n                    <li><strong>留存：</strong>敬业度、薪酬、成长机会、文化</li>\n                    <li><strong>过渡：</strong>继任计划、退休、离职</li>\n                  </ul>\n\n                  <h2>吸引顶尖人才</h2>\n                  <p>您的雇主品牌是您作为工作场所的声誉。投资于：</p>\n\n                  <ol>\n                    <li>令人信服的员工价值主张</li>\n                    <li>积极的候选人体验</li>\n                    <li>来自现有员工的强力社会证明</li>\n                    <li>有竞争力的总奖励方案</li>\n                  </ol>\n\n                  <h2>培养您的 workforce</h2>\n                  <p>学习和成长不再是可选项。员工期望成长机会，投资于发展的组织会看到更好的留存和绩效。</p>\n\n                  <h2>继任计划</h2>\n                  <p>每个领导职位都应该有继任候选人。尽早识别高潜力员工并投资于他们的培养。</p>\n\n                  <h2>创造人才文化</h2>\n                  <p>人才管理不仅仅是HR职能——这是组织优先事项。各级领导者都应该投入到吸引、培养和留住人才中。</p>\n                "
+      },
+      "change-management-hr-guide": {
+        "title": "HR变革管理：引领组织转型",
+        "excerpt": "掌握在保持员工敬业度和生产力贯穿始终的同时管理组织变革的艺术。",
+        "content": "\n                  <p>组织变革是不可避免的，但失败的变革举措代价高昂。HR在引领成功转型中起着关键作用。以下是如何有效管理变革。</p>\n\n                  <h2>为什么变革失败</h2>\n                  <p>大多数变革举措失败是由于：</p>\n\n                  <ul>\n                    <li>缺乏员工认同</li>\n                    <li>沟通不足</li>\n                    <li>来自关键利益相关者的阻力</li>\n                    <li>培训和支持不足</li>\n                    <li>变革疲劳</li>\n                  </ul>\n\n                  <h2>变革管理过程</h2>\n\n                  <ol>\n                    <li><strong>评估：</strong>了解变革的必要性和组织准备情况</li>\n                    <li><strong>计划：</strong>制定综合变革策略</li>\n                    <li><strong>沟通：</strong>分享变革的愿景和原因</li>\n                    <li><strong>参与：</strong>让员工参与变革过程</li>\n                    <li><strong>实施：</strong>在适当支持下执行变革</li>\n                    <li><strong>维持：</strong>加强新行为和实践</li>\n                  </ol>\n\n                  <h2>HR在变革管理中的作用</h2>\n                  <p>HR专业人员处于独特的地位来引领变革举措，因为他们了解业务战略和员工关切。</p>\n\n                  <h2>建立变革韧性</h2>\n                  <p>通过提供培训、创造安全提问空间、庆祝早期成功并在整个过程中保持透明，帮助员工适应。</p>\n\n                  <h2>衡量变革成功</h2>\n                  <p>追踪采用率、员工情绪和业务成果，以确定您的变革举措是否达到了目标。</p>\n                "
+      },
+      "hr-technology-future-trends": {
+        "title": "HR科技的未来：值得关注的趋势",
+        "excerpt": "探索将重塑未来十年HR的新兴技术，从AI到区块链。",
+        "content": "\n                  <p>HR技术以前所未有的速度发展。保持领先趋势对于想要利用技术获得竞争优势的HR领导者至关重要。</p>\n\n                  <h2>AI和机器学习</h2>\n                  <p>AI正在改变HR的各个方面：</p>\n\n                  <ul>\n                    <li><strong>招聘：</strong>自动化筛选、候选人匹配、聊天机器人面试</li>\n                    <li><strong>绩效：</strong>预测分析、情感分析、智能反馈</li>\n                    <li><strong>敬业度：</strong>实时脉搏调查、个性化推荐</li>\n                    <li><strong>留存：</strong>离职风险预测、干预建议</li>\n                  </ul>\n\n                  <h2>数字化转型趋势</h2>\n\n                  <ol>\n                    <li><strong>员工体验平台：</strong>统一门户满足所有HR需求</li>\n                    <li><strong>人员分析：</strong>大规模数据驱动决策</li>\n                    <li><strong>基于云的HRIS：</strong>集中化、可扩展的HR系统</li>\n                    <li><strong>移动优先设计：</strong>随时随地访问HR</li>\n                  </ol>\n\n                  <h2>新兴技术</h2>\n                  <p>展望更远的未来，这些技术将影响HR：</p>\n\n                  <ul>\n                    <li><strong>区块链：</strong>经验证的凭证、智能合约</li>\n                    <li><strong>VR/AR：</strong>沉浸式培训、虚拟办公室</li>\n                    <li><strong>IoT：</strong>工作场所安全监控、智能办公室</li>\n                  </ul>\n\n                  <h2>为未来做准备</h2>\n                  <p>在您的HR团队中建立技术素养，对新解决方案保持好奇，试点新兴技术，在评估工具时始终优先考虑员工体验。</p>\n\n                  <h2>人的因素</h2>\n                  <p>技术应该增强人际连接，而不是取代它。最好的HR技术策略将尖端工具与人类专业知识和判断相结合。</p>\n                "
+      },
+      "performance-review-alternatives": {
+        "title": "超越年度评审：现代绩效管理方法",
+        "excerpt": "发现推动持续改进和员工成长的替代性绩效管理方法。",
+        "content": "\n                  <p>传统的年度绩效评审正在消亡。先进组织正在采用专注于持续反馈、辅导和发展的新方法。</p>\n\n                  <h2>年度评审的不足</h2>\n                  <p>年度评审有显著局限性：</p>\n\n                  <ul>\n                    <li>反馈与行为之间经过的时间太长</li>\n                    <li>它们关注评判而非改进</li>\n                    <li>它们经常受到近因偏见的影响</li>\n                    <li>员工感到被评判而非被支持</li>\n                  </ul>\n\n                  <h2>现代替代方案</h2>\n\n                  <ol>\n                    <li><strong>持续绩效管理：</strong>持续对话、实时反馈</li>\n                    <li><strong>OKR：</strong>目标与关键结果用于目标协调</li>\n                    <li><strong>360度反馈：</strong>来自多个利益相关者的意见</li>\n                    <li><strong>辅导文化：</strong>管理者作为教练而非评判者</li>\n                    <li><strong>同伴认可：</strong>社会认可系统</li>\n                  </ol>\n\n                  <h2>实施持续反馈</h2>\n                  <p>通过以下方式转向持续反馈：</p>\n\n                  <ul>\n                    <li>培训管理者辅导技能</li>\n                    <li>实施脉搏调查和定期检查</li>\n                    <li>使用技术促进反馈</li>\n                    <li>使反馈成为双向通道</li>\n                  </ul>\n\n                  <h2>平衡问责与发展</h2>\n                  <p>出色的绩效管理在要求人们承担责任与支持他们成长之间取得平衡。两个极端对组织都没有好处。</p>\n\n                  <h2>开始行动</h2>\n                  <p>您不需要一夜之间彻底改造整个系统。从定期一对一开始，添加季度检查，并逐步引入更多持续元素。</p>\n                "
+      }
+    }
+  },
+  "clientPortal": {
+    "welcomeTitle": "欢迎使用您的HR仪表板",
+    "welcomeDesc": "在一个地方访问员工数据、管理工作流程并获得强大的洞察。",
+    "features": [
+      "管理员工档案",
+      "跟踪考勤和时间",
+      "运行薪资和福利",
+      "生成报告和分析",
+      "自动化HR工作流程"
+    ],
+    "signInTitle": "登录您的账户",
+    "signUpTitle": "创建您的账户",
+    "noAccount": "还没有账户？",
+    "hasAccount": "已有账户？",
+    "signUp": "注册",
+    "signIn": "登录",
+    "email": "电子邮箱",
+    "password": "密码",
+    "rememberMe": "记住我",
+    "forgotPassword": "忘记密码？",
+    "agreeTerms": "我同意",
+    "termsOfService": "服务条款",
+    "privacyPolicy": "隐私政策",
+    "and": "和",
+    "createAccount": "创建账户",
+    "needHelp": "需要帮助？",
+    "contactSupport": "联系我们的支持团队",
+    "comingSoon": "即将推出！",
+    "comingSoonDesc": "客户端门户目前正在开发中。请联系我们获取早期访问权限。",
+    "contactUs": "联系我们"
+  },
+  "pricingPage": {
+    "eyebrow": "定价",
+    "title": "简单透明的定价",
+    "description": "选择适合您组织需求的方案。无隐藏费用，随时取消。",
+    "mostPopular": "最受欢迎",
+    "comparePlans": "方案对比",
+    "compareDesc": "查看哪个方案适合您的组织",
+    "feature": "功能",
+    "faq": "常见问题",
+    "faqDesc": "关于我们定价的所有信息",
+    "stillQuestions": "还有疑问？",
+    "stillQuestionsDesc": "我们的团队随时帮助您找到适合组织的完美方案。",
+    "contactSales": "联系销售",
+    "emailUs": "发送邮件",
+    "plans": {
+      "starter": {
+        "name": "入门版",
+        "period": "每位员工/月",
+        "description": "适合刚开始使用HR管理的小型企业"
+      },
+      "professional": {
+        "name": "专业版",
+        "period": "每位员工/月",
+        "description": "为有更多HR需求的成长型企业提供高级功能"
+      },
+      "enterprise": {
+        "name": "企业版",
+        "period": "定制价格",
+        "description": "为大型组织提供完整的HR管理解决方案"
+      }
+    },
+    "features": {
+      "employeeManagement": "员工管理",
+      "timeTracking": "时间追踪",
+      "documentStorage": "文档存储",
+      "aiAnalytics": "AI分析",
+      "performanceReviews": "绩效评估",
+      "trainingManagement": "培训管理",
+      "apiAccess": "API访问",
+      "customWorkflows": "自定义工作流",
+      "dedicatedSupport": "专属支持",
+      "slaGuarantee": "SLA保证"
+    },
+    "faqs": [
+      {
+        "question": "定价是如何计算的？",
+        "answer": "我们的定价是按每位员工每月计算。您只需为系统中的活跃员工付费。没有隐藏费用或长期合同。"
+      },
+      {
+        "question": "可以切换方案吗？",
+        "answer": "是的，您可以随时升级或降级方案。更改将在下一个计费周期开始时生效。"
+      },
+      {
+        "question": "有免费试用吗？",
+        "answer": "是的，我们为入门版和专业版提供14天免费试用。无需信用卡。"
+      },
+      {
+        "question": "接受哪些支付方式？",
+        "answer": "我们接受所有主要信用卡、银行转账和PayPal。企业客户还可以通过发票付款。"
+      },
+      {
+        "question": "为非营利组织提供折扣吗？",
+        "answer": "是的，我们为非营利组织和教育机构提供特别定价。请联系我们的销售团队了解详情。"
+      },
+      {
+        "question": "取消后我的数据会怎样？",
+        "answer": "您可以随时导出所有数据。取消后我们会保留您的数据30天，然后安全删除。"
+      }
+    ]
+  },
+  "blogPage": {
+    "eyebrow": "博客",
+    "title": "最新洞察与资源",
+    "description": "了解我们关于HR技术和工作场所创新的最新思考。",
+    "featured": "精选",
+    "readArticle": "阅读文章",
+    "newsletterTitle": "订阅我们的新闻通讯",
+    "newsletterDesc": "获取最新的HR洞察、技巧和最佳实践，直接发送到您的收件箱。",
+    "emailPlaceholder": "输入您的邮箱",
+    "subscribe": "订阅",
+    "categories": {
+      "all": "全部",
+      "employeeEngagement": "员工敬业度",
+      "performanceManagement": "绩效管理",
+      "aiTechnology": "AI技术",
+      "onboarding": "入职",
+      "remoteWork": "远程工作",
+      "compliance": "合规",
+      "culture": "企业文化",
+      "analytics": "数据分析",
+      "wellness": "员工健康",
+      "talentManagement": "人才管理",
+      "changeManagement": "变革管理"
+    }
+  },
+  "featuresPage": {
+    "eyebrow": "功能",
+    "title": "为现代HR团队提供的强大功能",
+    "description": "我们全面的AI驱动工具套件改变您管理人力资源的方式，从入职到绩效管理以及更多。",
+    "cta": "立即开始",
+    "features": {
+      "smartOnboarding": {
+        "title": "智能入职",
+        "description": "通过AI驱动的工作流程、自动化文档和个性化培训路径简化员工入职。",
+        "benefits": [
+          "入职时间减少60%",
+          "自动化文档收集",
+          "个性化欢迎体验"
+        ]
+      },
+      "aiAnalytics": {
+        "title": "AI驱动分析",
+        "description": "通过我们先进的分析平台深入了解员工趋势并做出数据驱动的决策。",
+        "benefits": [
+          "实时仪表板",
+          "预测性洞察",
+          "自定义报告"
+        ]
+      },
+      "performance": {
+        "title": "绩效管理",
+        "description": "通过自动化评估、目标跟踪和发展计划跟踪和优化员工绩效。",
+        "benefits": [
+          "360°反馈",
+          "目标对齐",
+          "职业路径"
+        ]
+      },
+      "compliance": {
+        "title": "合规管理",
+        "description": "通过自动化政策更新、文档管理和监管跟踪系统保持合规。",
+        "benefits": [
+          "自动化合规检查",
+          "审计跟踪",
+          "政策管理"
+        ]
+      },
+      "predictive": {
+        "title": "预测分析",
+        "description": "我们的AI分析您的员工数据模式以预测未来趋势并帮助您主动解决问题。",
+        "benefits": [
+          "离职预测",
+          "人才缺口分析",
+          "继任计划"
+        ]
+      },
+      "recruiting": {
+        "title": "智能招聘",
+        "description": "通过AI驱动的候选人匹配、自动筛选和偏见检测简化您的招聘流程。",
+        "benefits": [
+          "智能候选人匹配",
+          "简历解析",
+          "面试安排"
+        ]
+      },
+      "automation": {
+        "title": "工作流自动化",
+        "description": "自动化重复的HR任务，让您的团队专注于战略计划。",
+        "benefits": [
+          "无代码工作流",
+          "审批链",
+          "通知"
+        ]
+      },
+      "global": {
+        "title": "全球HR管理",
+        "description": "通过多国薪资、合规和本地化体验管理您的全球员工。",
+        "benefits": [
+          "多币种支持",
+          "本地合规",
+          "时区管理"
+        ]
+      },
+      "security": {
+        "title": "企业安全",
+        "description": "银行级安全，支持SSO、基于角色的访问控制和数据加密。",
+        "benefits": [
+          "SOC 2合规",
+          "GDPR就绪",
+          "SSO集成"
+        ]
+      },
+      "attendance": {
+        "title": "考勤管理",
+        "description": "跟踪员工时间、管理请假请求并确保准确的薪资计算。",
+        "benefits": [
+          "生物识别集成",
+          "请假管理",
+          "加班跟踪"
+        ]
+      },
+      "documents": {
+        "title": "文档管理",
+        "description": "通过版本控制、电子签名和安全存储集中管理所有HR文档。",
+        "benefits": [
+          "电子签名",
+          "版本控制",
+          "文档模板"
+        ]
+      },
+      "selfService": {
+        "title": "员工自助服务",
+        "description": "让员工通过自助服务访问他们的信息、请求和公司资源。",
+        "benefits": [
+          "移动应用",
+          "HR聊天机器人",
+          "知识库"
+        ]
+      },
+      "oneClickPayroll": {
+        "title": "一键算薪",
+        "description": "一键计算薪资、税费和福利。每月节省数小时的手动工作。",
+        "benefits": [
+          "一键薪资计算",
+          "自动税费计算",
+          "福利集成"
+        ]
+      },
+      "oneClickStoreScheduling": {
+        "title": "一键门店排班",
+        "description": "根据客流量和员工可用性自动为零售门店生成最佳排班表。",
+        "benefits": [
+          "客流量分析",
+          "最优人员配置",
+          "高峰时段覆盖"
+        ]
+      },
+      "oneClickFactoryScheduling": {
+        "title": "一键工厂排班",
+        "description": "考虑生产目标和劳动法规，为制造设施创建高效的轮班排班表。",
+        "benefits": [
+          "生产目标对齐",
+          "劳动法合规",
+          "班次优化"
+        ]
+      },
+      "smartScheduling": {
+        "title": "智能排班",
+        "description": "AI驱动的排班系统，可适应您的业务需求和员工偏好。",
+        "benefits": [
+          "AI驱动优化",
+          "员工偏好匹配",
+          "冲突解决"
+        ]
+      }
+    }
+  }
+}
